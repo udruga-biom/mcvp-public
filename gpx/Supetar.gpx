@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="43.340497508237760" minlon="16.524943084603656" maxlat="43.369094148378650" maxlon="16.565554015101338"/></metadata>                  
+<wpt lat="43.34049750823776" lon="16.550554285951844">
+  <name>Supetar - D.Humac_1</name>
+</wpt>
+<wpt lat="43.341057319215039" lon="16.546558717516653">
+  <name>Supetar - D.Humac_2</name>
+</wpt>
+<wpt lat="43.341481967474294" lon="16.542550647709611">
+  <name>Supetar - D.Humac_3</name>
+</wpt>
+<wpt lat="43.343985188819133" lon="16.540603619604806">
+  <name>Supetar - D.Humac_4</name>
+</wpt>
+<wpt lat="43.346308322501379" lon="16.538705655286606">
+  <name>Supetar - D.Humac_5</name>
+</wpt>
+<wpt lat="43.348290058153374" lon="16.534550053393126">
+  <name>Supetar - D.Humac_6</name>
+</wpt>
+<wpt lat="43.34993829428678" lon="16.53143017430488">
+  <name>Supetar - D.Humac_7</name>
+</wpt>
+<wpt lat="43.351379487708748" lon="16.52796463545068">
+  <name>Supetar - D.Humac_8</name>
+</wpt>
+<wpt lat="43.35297351093439" lon="16.524943084603656">
+  <name>Supetar - D.Humac_9</name>
+</wpt>
+<wpt lat="43.35850495391805" lon="16.561253047998029">
+  <name>Supetar - Supetar_1</name>
+</wpt>
+<wpt lat="43.361421502357068" lon="16.561330007380374">
+  <name>Supetar - Supetar_2</name>
+</wpt>
+<wpt lat="43.36387178284248" lon="16.557902496208555">
+  <name>Supetar - Supetar_3</name>
+</wpt>
+<wpt lat="43.366689751768718" lon="16.557103165757745">
+  <name>Supetar - Supetar_4</name>
+</wpt>
+<wpt lat="43.36909414837865" lon="16.555242215073044">
+  <name>Supetar - Supetar_5</name>
+</wpt>
+<wpt lat="43.368965839763469" lon="16.559782883054456">
+  <name>Supetar - Supetar_6</name>
+</wpt>
+<wpt lat="43.367226722428278" lon="16.563075617473448">
+  <name>Supetar - Supetar_7</name>
+</wpt>
+<wpt lat="43.365659013840784" lon="16.565554015101338">
+  <name>Supetar - Supetar_8</name>
+</wpt>
+<wpt lat="43.363157653199089" lon="16.563527904386625">
+  <name>Supetar - Supetar_9</name>
+</wpt>
+</gpx>

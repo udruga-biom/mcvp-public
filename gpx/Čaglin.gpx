@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.345024327214226" minlon="17.935602675705358" maxlat="45.369679088905521" maxlon="17.984444566373099"/></metadata>                  
+<wpt lat="45.357159596916397" lon="17.940682605320198">
+  <name>Čaglin - Nova Lipovica_1</name>
+</wpt>
+<wpt lat="45.360317476831696" lon="17.939486196038757">
+  <name>Čaglin - Nova Lipovica_2</name>
+</wpt>
+<wpt lat="45.362677565615463" lon="17.937550008089811">
+  <name>Čaglin - Nova Lipovica_3</name>
+</wpt>
+<wpt lat="45.3650020359336" lon="17.935602675705358">
+  <name>Čaglin - Nova Lipovica_4</name>
+</wpt>
+<wpt lat="45.366551712470432" lon="17.939026219930334">
+  <name>Čaglin - Nova Lipovica_5</name>
+</wpt>
+<wpt lat="45.367491264192566" lon="17.94287014564145">
+  <name>Čaglin - Nova Lipovica_6</name>
+</wpt>
+<wpt lat="45.368408721321636" lon="17.946764445321598">
+  <name>Čaglin - Nova Lipovica_7</name>
+</wpt>
+<wpt lat="45.368472296123642" lon="17.951505015487115">
+  <name>Čaglin - Nova Lipovica_8</name>
+</wpt>
+<wpt lat="45.369679088905521" lon="17.955042078321217">
+  <name>Čaglin - Nova Lipovica_9</name>
+</wpt>
+<wpt lat="45.345024327214226" lon="17.983837082025527">
+  <name>Čaglin - Čaglin_1</name>
+</wpt>
+<wpt lat="45.347755459351532" lon="17.984444566373099">
+  <name>Čaglin - Čaglin_2</name>
+</wpt>
+<wpt lat="45.348428212586121" lon="17.980673202003018">
+  <name>Čaglin - Čaglin_3</name>
+</wpt>
+<wpt lat="45.350717719136519" lon="17.978467232632923">
+  <name>Čaglin - Čaglin_4</name>
+</wpt>
+<wpt lat="45.351070543328134" lon="17.9746894609756">
+  <name>Čaglin - Čaglin_5</name>
+</wpt>
+<wpt lat="45.352853084996603" lon="17.970363643313849">
+  <name>Čaglin - Čaglin_6</name>
+</wpt>
+<wpt lat="45.354690750940591" lon="17.973313703231074">
+  <name>Čaglin - Čaglin_7</name>
+</wpt>
+<wpt lat="45.356518278896708" lon="17.976248503537807">
+  <name>Čaglin - Čaglin_8</name>
+</wpt>
+<wpt lat="45.358992169215753" lon="17.97465594045185">
+  <name>Čaglin - Čaglin_9</name>
+</wpt>
+</gpx>

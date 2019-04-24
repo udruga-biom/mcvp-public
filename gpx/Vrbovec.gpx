@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.893327375903823" minlon="16.448505871749624" maxlat="45.944865688206448" maxlon="16.475999507012080"/></metadata>                  
+<wpt lat="45.895611908561747" lon="16.448505871749624">
+  <name>Vrbovec - Đivan_2</name>
+</wpt>
+<wpt lat="45.893327375903823" lon="16.450569725580607">
+  <name>Vrbovec - Đivan_1</name>
+</wpt>
+<wpt lat="45.898284567676342" lon="16.449199301301586">
+  <name>Vrbovec - Đivan_3</name>
+</wpt>
+<wpt lat="45.899590769305021" lon="16.452742128340045">
+  <name>Vrbovec - Đivan_4</name>
+</wpt>
+<wpt lat="45.902209649011752" lon="16.45401581299592">
+  <name>Vrbovec - Đivan_5</name>
+</wpt>
+<wpt lat="45.904846044045264" lon="16.45411674477204">
+  <name>Vrbovec - Đivan_6</name>
+</wpt>
+<wpt lat="45.907482308223017" lon="16.453895456988057">
+  <name>Vrbovec - Đivan_7</name>
+</wpt>
+<wpt lat="45.910010212021838" lon="16.452733286541413">
+  <name>Vrbovec - Đivan_8</name>
+</wpt>
+<wpt lat="45.911700518958128" lon="16.44974133889621">
+  <name>Vrbovec - Đivan_9</name>
+</wpt>
+<wpt lat="45.942067270430393" lon="16.474966579914334">
+  <name>Vrbovec - Mali_Brezovec_2</name>
+</wpt>
+<wpt lat="45.944865688206448" lon="16.475532824700913">
+  <name>Vrbovec - Mali_Brezovec_1</name>
+</wpt>
+<wpt lat="45.939395163869676" lon="16.47599950701208">
+  <name>Vrbovec - Mali_Brezovec_3</name>
+</wpt>
+<wpt lat="45.936587789397585" lon="16.4756267368697">
+  <name>Vrbovec - Mali_Brezovec_4</name>
+</wpt>
+<wpt lat="45.934400848722007" lon="16.473435477003406">
+  <name>Vrbovec - Mali_Brezovec_5</name>
+</wpt>
+<wpt lat="45.931791181931168" lon="16.472095664267542">
+  <name>Vrbovec - Mali_Brezovec_6</name>
+</wpt>
+<wpt lat="45.929118883815583" lon="16.472238840238248">
+  <name>Vrbovec - Mali_Brezovec_7</name>
+</wpt>
+<wpt lat="45.926931827959613" lon="16.469867496183706">
+  <name>Vrbovec - Mali_Brezovec_8</name>
+</wpt>
+<wpt lat="45.924106514087988" lon="16.46980456074639">
+  <name>Vrbovec - Mali_Brezovec_9</name>
+</wpt>
+</gpx>

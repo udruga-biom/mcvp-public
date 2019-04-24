@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.464422868435861" minlon="16.419904287016298" maxlat="45.507321260800857" maxlon="16.453951083090217"/></metadata>                  
+<wpt lat="45.507321260800857" lon="16.425134487788224">
+  <name>Budaševo - Hrastelnica_1</name>
+</wpt>
+<wpt lat="45.504422838993897" lon="16.423730674316428">
+  <name>Budaševo - Hrastelnica_2</name>
+</wpt>
+<wpt lat="45.500949507545698" lon="16.4238249365862">
+  <name>Budaševo - Hrastelnica_3</name>
+</wpt>
+<wpt lat="45.498501014087267" lon="16.422459116940857">
+  <name>Budaševo - Hrastelnica_4</name>
+</wpt>
+<wpt lat="45.496027332472259" lon="16.4237803933968">
+  <name>Budaševo - Hrastelnica_5</name>
+</wpt>
+<wpt lat="45.493337123609329" lon="16.42427020789594">
+  <name>Budaševo - Hrastelnica_6</name>
+</wpt>
+<wpt lat="45.49087047976613" lon="16.422674288934051">
+  <name>Budaševo - Hrastelnica_7</name>
+</wpt>
+<wpt lat="45.487550528059522" lon="16.423382449021478">
+  <name>Budaševo - Hrastelnica_8</name>
+</wpt>
+<wpt lat="45.486459329042951" lon="16.419904287016298">
+  <name>Budaševo - Hrastelnica_9</name>
+</wpt>
+<wpt lat="45.464422868435861" lon="16.453951083090217">
+  <name>Budaševo - Budaševo_1</name>
+</wpt>
+<wpt lat="45.46709520107774" lon="16.453411793725792">
+  <name>Budaševo - Budaševo_2</name>
+</wpt>
+<wpt lat="45.469767529897481" lon="16.452872453295949">
+  <name>Budaševo - Budaševo_3</name>
+</wpt>
+<wpt lat="45.4723229599199" lon="16.452537793933224">
+  <name>Budaševo - Budaševo_4</name>
+</wpt>
+<wpt lat="45.474967906964331" lon="16.451103071485011">
+  <name>Budaševo - Budaševo_5</name>
+</wpt>
+<wpt lat="45.477838126400066" lon="16.450422674157149">
+  <name>Budaševo - Budaševo_6</name>
+</wpt>
+<wpt lat="45.480546238164251" lon="16.449448148144704">
+  <name>Budaševo - Budaševo_7</name>
+</wpt>
+<wpt lat="45.483164176139219" lon="16.448077057200752">
+  <name>Budaševo - Budaševo_8</name>
+</wpt>
+<wpt lat="45.48517219173835" lon="16.451158206834908">
+  <name>Budaševo - Budaševo_9</name>
+</wpt>
+</gpx>

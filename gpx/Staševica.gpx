@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="43.132186328941820" minlon="17.392872223206339" maxlat="43.175312455494399" maxlon="17.477379125435508"/></metadata>                  
+<wpt lat="43.175312455494399" lon="17.407887166164482">
+  <name>Staševica - Butina_1</name>
+</wpt>
+<wpt lat="43.172948179859681" lon="17.409992122389937">
+  <name>Staševica - Butina_2</name>
+</wpt>
+<wpt lat="43.170258033316387" lon="17.410916661270281">
+  <name>Staševica - Butina_3</name>
+</wpt>
+<wpt lat="43.168431695486049" lon="17.408086065857457">
+  <name>Staševica - Butina_4</name>
+</wpt>
+<wpt lat="43.169101723777665" lon="17.404448818813375">
+  <name>Staševica - Butina_5</name>
+</wpt>
+<wpt lat="43.169702494037864" lon="17.400995325232337">
+  <name>Staševica - Butina_6</name>
+</wpt>
+<wpt lat="43.170315417488347" lon="17.397356350999978">
+  <name>Staševica - Butina_7</name>
+</wpt>
+<wpt lat="43.170305584963629" lon="17.393505905753003">
+  <name>Staševica - Butina_8</name>
+</wpt>
+<wpt lat="43.172911403399027" lon="17.392872223206339">
+  <name>Staševica - Butina_9</name>
+</wpt>
+<wpt lat="43.13218632894182" lon="17.477379125435508">
+  <name>Staševica - Kobiljača_1</name>
+</wpt>
+<wpt lat="43.133269922261313" lon="17.473946901751436">
+  <name>Staševica - Kobiljača_2</name>
+</wpt>
+<wpt lat="43.133923596182981" lon="17.470351531568667">
+  <name>Staševica - Kobiljača_3</name>
+</wpt>
+<wpt lat="43.134579223805694" lon="17.466724648560373">
+  <name>Staševica - Kobiljača_4</name>
+</wpt>
+<wpt lat="43.135185541497272" lon="17.463070855262558">
+  <name>Staševica - Kobiljača_5</name>
+</wpt>
+<wpt lat="43.136894276423611" lon="17.460173233661781">
+  <name>Staševica - Kobiljača_6</name>
+</wpt>
+<wpt lat="43.138980597918113" lon="17.457692407730125">
+  <name>Staševica - Kobiljača_7</name>
+</wpt>
+<wpt lat="43.137349842943635" lon="17.454560936644626">
+  <name>Staševica - Kobiljača_8</name>
+</wpt>
+<wpt lat="43.138149840965184" lon="17.450930756443459">
+  <name>Staševica - Kobiljača_9</name>
+</wpt>
+</gpx>

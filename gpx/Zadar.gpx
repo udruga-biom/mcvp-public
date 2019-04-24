@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="44.072333560499530" minlon="15.274744484357235" maxlat="44.117720315995989" maxlon="15.320843247332762"/></metadata>                  
+<wpt lat="44.117720315995989" lon="15.274744484357235">
+  <name>Zadar - Crno_1</name>
+</wpt>
+<wpt lat="44.116151220406962" lon="15.277825306349948">
+  <name>Zadar - Crno_2</name>
+</wpt>
+<wpt lat="44.115516223310792" lon="15.281573888399945">
+  <name>Zadar - Crno_3</name>
+</wpt>
+<wpt lat="44.114635881942938" lon="15.28511503376901">
+  <name>Zadar - Crno_4</name>
+</wpt>
+<wpt lat="44.112020874436745" lon="15.285505911192272">
+  <name>Zadar - Crno_5</name>
+</wpt>
+<wpt lat="44.110652893304717" lon="15.288906839425165">
+  <name>Zadar - Crno_6</name>
+</wpt>
+<wpt lat="44.108063540980879" lon="15.290021515242247">
+  <name>Zadar - Crno_7</name>
+</wpt>
+<wpt lat="44.106619605624786" lon="15.293061404737793">
+  <name>Zadar - Crno_8</name>
+</wpt>
+<wpt lat="44.104685447830036" lon="15.295711383853851">
+  <name>Zadar - Crno_9</name>
+</wpt>
+<wpt lat="44.07233356049953" lon="15.298777168980092">
+  <name>Zadar - Babin Dub_1</name>
+</wpt>
+<wpt lat="44.07342271372206" lon="15.302213320805862">
+  <name>Zadar - Babin Dub_2</name>
+</wpt>
+<wpt lat="44.074377175300867" lon="15.30568976170848">
+  <name>Zadar - Babin Dub_3</name>
+</wpt>
+<wpt lat="44.07640672411187" lon="15.320843247332762">
+  <name>Zadar - Babin Dub_4</name>
+</wpt>
+<wpt lat="44.078707466826188" lon="15.310097442782578">
+  <name>Zadar - Babin Dub_5</name>
+</wpt>
+<wpt lat="44.080174822383064" lon="15.308394927162626">
+  <name>Zadar - Babin Dub_6</name>
+</wpt>
+<wpt lat="44.082463809777366" lon="15.315591047745345">
+  <name>Zadar - Babin Dub_7</name>
+</wpt>
+<wpt lat="44.085251609692925" lon="15.315360600213754">
+  <name>Zadar - Babin Dub_8</name>
+</wpt>
+<wpt lat="44.087415625920187" lon="15.31313211523419">
+  <name>Zadar - Babin Dub_9</name>
+</wpt>
+</gpx>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="43.032218430023882" minlon="17.515434543602961" maxlat="43.068876250359921" maxlon="17.541898659019921"/></metadata>                  
+<wpt lat="43.068876250359921" lon="17.515434543602961">
+  <name>Opuzen - Desne_1</name>
+</wpt>
+<wpt lat="43.068681383321469" lon="17.519127170578351">
+  <name>Opuzen - Desne_2</name>
+</wpt>
+<wpt lat="43.067696407726643" lon="17.52257334688688">
+  <name>Opuzen - Desne_3</name>
+</wpt>
+<wpt lat="43.066255258071536" lon="17.525680296314789">
+  <name>Opuzen - Desne_4</name>
+</wpt>
+<wpt lat="43.064661452498321" lon="17.528735436637721">
+  <name>Opuzen - Desne_5</name>
+</wpt>
+<wpt lat="43.062286666028967" lon="17.530537316903814">
+  <name>Opuzen - Desne_6</name>
+</wpt>
+<wpt lat="43.061095663271928" lon="17.533832166437538">
+  <name>Opuzen - Desne_7</name>
+</wpt>
+<wpt lat="43.060350824140315" lon="17.537551823392548">
+  <name>Opuzen - Desne_8</name>
+</wpt>
+<wpt lat="43.06045305749592" lon="17.541162956894318">
+  <name>Opuzen - Desne_9</name>
+</wpt>
+<wpt lat="43.035744300170713" lon="17.541898659019921">
+  <name>Opuzen - Opuzen_1</name>
+</wpt>
+<wpt lat="43.034468289297116" lon="17.538674151272239">
+  <name>Opuzen - Opuzen_2</name>
+</wpt>
+<wpt lat="43.032218430023882" lon="17.53661144644261">
+  <name>Opuzen - Opuzen_3</name>
+</wpt>
+<wpt lat="43.033211372219526" lon="17.533327134006722">
+  <name>Opuzen - Opuzen_4</name>
+</wpt>
+<wpt lat="43.033100646320371" lon="17.529631569779802">
+  <name>Opuzen - Opuzen_5</name>
+</wpt>
+<wpt lat="43.034309300941985" lon="17.526362964262624">
+  <name>Opuzen - Opuzen_6</name>
+</wpt>
+<wpt lat="43.03624968153796" lon="17.523805896292671">
+  <name>Opuzen - Opuzen_7</name>
+</wpt>
+<wpt lat="43.037306032074497" lon="17.520436307445536">
+  <name>Opuzen - Opuzen_8</name>
+</wpt>
+<wpt lat="43.037886871953269" lon="17.51687466267661">
+  <name>Opuzen - Opuzen_9</name>
+</wpt>
+</gpx>

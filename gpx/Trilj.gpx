@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="43.640216460645398" minlon="16.682172918011592" maxlat="43.678924058321570" maxlon="16.707530340250649"/></metadata>                  
+<wpt lat="43.678120999981097" lon="16.688750470775702">
+  <name>Trilj - Alkarica_1</name>
+</wpt>
+<wpt lat="43.678518677850889" lon="16.692475271425774">
+  <name>Trilj - Alkarica_2</name>
+</wpt>
+<wpt lat="43.67892405832157" lon="16.696099314658621">
+  <name>Trilj - Alkarica_3</name>
+</wpt>
+<wpt lat="43.677625090917054" lon="16.699370493195666">
+  <name>Trilj - Alkarica_4</name>
+</wpt>
+<wpt lat="43.674896405862974" lon="16.699539918095532">
+  <name>Trilj - Alkarica_5</name>
+</wpt>
+<wpt lat="43.672079330002028" lon="16.699604122434987">
+  <name>Trilj - Alkarica_6</name>
+</wpt>
+<wpt lat="43.669306796460425" lon="16.699778708831158">
+  <name>Trilj - Alkarica_7</name>
+</wpt>
+<wpt lat="43.666732530289487" lon="16.700997142272687">
+  <name>Trilj - Alkarica_8</name>
+</wpt>
+<wpt lat="43.663886666818797" lon="16.702273705112187">
+  <name>Trilj - Alkarica_9</name>
+</wpt>
+<wpt lat="43.640216460645398" lon="16.707530340250649">
+  <name>Trilj - Košute_1</name>
+</wpt>
+<wpt lat="43.641366597162381" lon="16.704214256736506">
+  <name>Trilj - Košute_2</name>
+</wpt>
+<wpt lat="43.642810701671635" lon="16.701057682202922">
+  <name>Trilj - Košute_3</name>
+</wpt>
+<wpt lat="43.644159406365269" lon="16.697894073878391">
+  <name>Trilj - Košute_4</name>
+</wpt>
+<wpt lat="43.645460675086035" lon="16.694625304621237">
+  <name>Trilj - Košute_5</name>
+</wpt>
+<wpt lat="43.646847084831329" lon="16.691415172857894">
+  <name>Trilj - Košute_6</name>
+</wpt>
+<wpt lat="43.648178525721434" lon="16.688186871503476">
+  <name>Trilj - Košute_7</name>
+</wpt>
+<wpt lat="43.649768683502273" lon="16.685169092917814">
+  <name>Trilj - Košute_8</name>
+</wpt>
+<wpt lat="43.651381500208672" lon="16.682172918011592">
+  <name>Trilj - Košute_9</name>
+</wpt>
+</gpx>

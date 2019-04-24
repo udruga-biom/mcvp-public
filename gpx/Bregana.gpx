@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.830956040337831" minlon="15.707697745347604" maxlat="45.859606963023062" maxlon="15.752400024718611"/></metadata>                  
+<wpt lat="45.840725064959308" lon="15.707697745347604">
+  <name>Bregana- Samoborski Otok_1</name>
+</wpt>
+<wpt lat="45.839597757611855" lon="15.71122821638018">
+  <name>Bregana- Samoborski Otok_2</name>
+</wpt>
+<wpt lat="45.838767596615753" lon="15.714805857702322">
+  <name>Bregana- Samoborski Otok_3</name>
+</wpt>
+<wpt lat="45.837947024225009" lon="15.718486243164751">
+  <name>Bregana- Samoborski Otok_4</name>
+</wpt>
+<wpt lat="45.837206364468251" lon="15.723349719278671">
+  <name>Bregana- Samoborski Otok_5</name>
+</wpt>
+<wpt lat="45.835100174063619" lon="15.725902025503878">
+  <name>Bregana- Samoborski Otok_6</name>
+</wpt>
+<wpt lat="45.832527245218969" lon="15.727302118301361">
+  <name>Bregana- Samoborski Otok_7</name>
+</wpt>
+<wpt lat="45.830956040337831" lon="15.730477384637293">
+  <name>Bregana- Samoborski Otok_8</name>
+</wpt>
+<wpt lat="45.83097444806365" lon="15.734557404412621">
+  <name>Bregana- Samoborski Otok_9</name>
+</wpt>
+<wpt lat="45.859606963023062" lon="15.752400024718611">
+  <name>Bregana - Zdenci Brdovečki_1</name>
+</wpt>
+<wpt lat="45.858217788889924" lon="15.749121923396181">
+  <name>Bregana - Zdenci Brdovečki_2</name>
+</wpt>
+<wpt lat="45.85894011661248" lon="15.745403343069789">
+  <name>Bregana - Zdenci Brdovečki_3</name>
+</wpt>
+<wpt lat="45.858986516229251" lon="15.741539319243097">
+  <name>Bregana - Zdenci Brdovečki_4</name>
+</wpt>
+<wpt lat="45.856438645071165" lon="15.739964285378354">
+  <name>Bregana - Zdenci Brdovečki_5</name>
+</wpt>
+<wpt lat="45.854628661880355" lon="15.737052991638841">
+  <name>Bregana - Zdenci Brdovečki_6</name>
+</wpt>
+<wpt lat="45.852319771918019" lon="15.734895568256285">
+  <name>Bregana - Zdenci Brdovečki_7</name>
+</wpt>
+<wpt lat="45.851341626250587" lon="15.731265009939685">
+  <name>Bregana - Zdenci Brdovečki_8</name>
+</wpt>
+<wpt lat="45.853994139581204" lon="15.728318297473217">
+  <name>Bregana - Zdenci Brdovečki_9</name>
+</wpt>
+</gpx>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="44.351524777808308" minlon="15.383778949591431" maxlat="44.370551222146247" maxlon="15.435630645474792"/></metadata>                  
+<wpt lat="44.363423434532486" lon="15.410850346349692">
+  <name>Starigrad P. - Malo Rujno_1</name>
+</wpt>
+<wpt lat="44.365534068662093" lon="15.408502707346281">
+  <name>Starigrad P. - Malo Rujno_2</name>
+</wpt>
+<wpt lat="44.366754016928788" lon="15.405255573795074">
+  <name>Starigrad P. - Malo Rujno_3</name>
+</wpt>
+<wpt lat="44.367936791524578" lon="15.40189607781941">
+  <name>Starigrad P. - Malo Rujno_4</name>
+</wpt>
+<wpt lat="44.369155459921544" lon="15.398535773433871">
+  <name>Starigrad P. - Malo Rujno_5</name>
+</wpt>
+<wpt lat="44.370165968964237" lon="15.395066316885027">
+  <name>Starigrad P. - Malo Rujno_6</name>
+</wpt>
+<wpt lat="44.370336585164864" lon="15.391311446210651">
+  <name>Starigrad P. - Malo Rujno_7</name>
+</wpt>
+<wpt lat="44.370057151513713" lon="15.387565073619871">
+  <name>Starigrad P. - Malo Rujno_8</name>
+</wpt>
+<wpt lat="44.370551222146247" lon="15.383778949591431">
+  <name>Starigrad P. - Malo Rujno_9</name>
+</wpt>
+<wpt lat="44.351524777808308" lon="15.435630645474792">
+  <name>Starigrad P. - Veliko Rujno_1</name>
+</wpt>
+<wpt lat="44.3525543134241" lon="15.432149983167839">
+  <name>Starigrad P. - Veliko Rujno_2</name>
+</wpt>
+<wpt lat="44.354109781267596" lon="15.429098652576114">
+  <name>Starigrad P. - Veliko Rujno_3</name>
+</wpt>
+<wpt lat="44.356266268771414" lon="15.426801387497523">
+  <name>Starigrad P. - Veliko Rujno_4</name>
+</wpt>
+<wpt lat="44.357712896424921" lon="15.423676445361531">
+  <name>Starigrad P. - Veliko Rujno_5</name>
+</wpt>
+<wpt lat="44.357245796074864" lon="15.419959258324814">
+  <name>Starigrad P. - Veliko Rujno_6</name>
+</wpt>
+<wpt lat="44.358483838074477" lon="15.416687400518919">
+  <name>Starigrad P. - Veliko Rujno_7</name>
+</wpt>
+<wpt lat="44.359459034692186" lon="15.41323208711723">
+  <name>Starigrad P. - Veliko Rujno_8</name>
+</wpt>
+<wpt lat="44.361386399885632" lon="15.410536817589941">
+  <name>Starigrad P. - Veliko Rujno_9</name>
+</wpt>
+</gpx>

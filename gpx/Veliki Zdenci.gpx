@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.647250651120167" minlon="17.072904769631624" maxlat="45.668100833163500" maxlon="17.106149331145744"/></metadata>                  
+<wpt lat="45.6681008331635" lon="17.082348004307001">
+  <name>Veliki Zdenci - zapad_1</name>
+</wpt>
+<wpt lat="45.665972042322345" lon="17.079836204136885">
+  <name>Veliki Zdenci - zapad_2</name>
+</wpt>
+<wpt lat="45.665477935825734" lon="17.07612221387631">
+  <name>Veliki Zdenci - zapad_3</name>
+</wpt>
+<wpt lat="45.663547857273848" lon="17.073433134266761">
+  <name>Veliki Zdenci - zapad_4</name>
+</wpt>
+<wpt lat="45.660815058945104" lon="17.072904769631624">
+  <name>Veliki Zdenci - zapad_5</name>
+</wpt>
+<wpt lat="45.658706335951102" lon="17.07532133945746">
+  <name>Veliki Zdenci - zapad_6</name>
+</wpt>
+<wpt lat="45.655898268158396" lon="17.075446558929464">
+  <name>Veliki Zdenci - zapad_7</name>
+</wpt>
+<wpt lat="45.653440439673318" lon="17.073920185067568">
+  <name>Veliki Zdenci - zapad_8</name>
+</wpt>
+<wpt lat="45.650685002901838" lon="17.074315436183859">
+  <name>Veliki Zdenci - zapad_9</name>
+</wpt>
+<wpt lat="45.647250651120167" lon="17.084377046241752">
+  <name>Veliki Zdenci - istok_1</name>
+</wpt>
+<wpt lat="45.64899020849176" lon="17.087320321126317">
+  <name>Veliki Zdenci - istok_2</name>
+</wpt>
+<wpt lat="45.650901573138476" lon="17.090085960841172">
+  <name>Veliki Zdenci - istok_3</name>
+</wpt>
+<wpt lat="45.653546835437787" lon="17.090126572627465">
+  <name>Veliki Zdenci - istok_4</name>
+</wpt>
+<wpt lat="45.654166392201418" lon="17.093854053276775">
+  <name>Veliki Zdenci - istok_5</name>
+</wpt>
+<wpt lat="45.656486241235065" lon="17.095905947518414">
+  <name>Veliki Zdenci - istok_6</name>
+</wpt>
+<wpt lat="45.658216631363814" lon="17.09882430485305">
+  <name>Veliki Zdenci - istok_7</name>
+</wpt>
+<wpt lat="45.657396745607102" lon="17.102446930908098">
+  <name>Veliki Zdenci - istok_8</name>
+</wpt>
+<wpt lat="45.65803402949031" lon="17.106149331145744">
+  <name>Veliki Zdenci - istok_9</name>
+</wpt>
+</gpx>

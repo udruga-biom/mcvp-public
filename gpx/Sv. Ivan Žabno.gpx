@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.905623493634117" minlon="16.597464613310947" maxlat="45.925855249796513" maxlon="16.660497019030124"/></metadata>                  
+<wpt lat="45.905623493634117" lon="16.597464613310947">
+  <name>Sv. Ivan Žabno - Haganj_1</name>
+</wpt>
+<wpt lat="45.908376670718006" lon="16.597636993598893">
+  <name>Sv. Ivan Žabno - Haganj_2</name>
+</wpt>
+<wpt lat="45.911102852881143" lon="16.597809343741755">
+  <name>Sv. Ivan Žabno - Haganj_3</name>
+</wpt>
+<wpt lat="45.913486039379876" lon="16.599231491243053">
+  <name>Sv. Ivan Žabno - Haganj_4</name>
+</wpt>
+<wpt lat="45.915877874958582" lon="16.601027618467622">
+  <name>Sv. Ivan Žabno - Haganj_5</name>
+</wpt>
+<wpt lat="45.918251847904124" lon="16.60264338399239">
+  <name>Sv. Ivan Žabno - Haganj_6</name>
+</wpt>
+<wpt lat="45.920544793575409" lon="16.604284920126126">
+  <name>Sv. Ivan Žabno - Haganj_7</name>
+</wpt>
+<wpt lat="45.923325004978132" lon="16.604393271776232">
+  <name>Sv. Ivan Žabno - Haganj_8</name>
+</wpt>
+<wpt lat="45.925855249796513" lon="16.602322177167434">
+  <name>Sv. Ivan Žabno - Haganj_9</name>
+</wpt>
+<wpt lat="45.907362734401381" lon="16.652594501088551">
+  <name>Sv. Ivan Žabno - Cirkvena_1</name>
+</wpt>
+<wpt lat="45.909972221476814" lon="16.652498533794684">
+  <name>Sv. Ivan Žabno - Cirkvena_2</name>
+</wpt>
+<wpt lat="45.91250780814277" lon="16.653833182134143">
+  <name>Sv. Ivan Žabno - Cirkvena_3</name>
+</wpt>
+<wpt lat="45.914998231618277" lon="16.655283844626478">
+  <name>Sv. Ivan Žabno - Cirkvena_4</name>
+</wpt>
+<wpt lat="45.917615397967516" lon="16.656154875985834">
+  <name>Sv. Ivan Žabno - Cirkvena_5</name>
+</wpt>
+<wpt lat="45.920340369713244" lon="16.657142322976288">
+  <name>Sv. Ivan Žabno - Cirkvena_6</name>
+</wpt>
+<wpt lat="45.922957465730661" lon="16.6580522040354">
+  <name>Sv. Ivan Žabno - Cirkvena_7</name>
+</wpt>
+<wpt lat="45.925326192277076" lon="16.656369908659027">
+  <name>Sv. Ivan Žabno - Cirkvena_8</name>
+</wpt>
+<wpt lat="45.92576136091445" lon="16.660497019030124">
+  <name>Sv. Ivan Žabno - Cirkvena_9</name>
+</wpt>
+</gpx>

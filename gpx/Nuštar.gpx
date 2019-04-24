@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.342421264217442" minlon="18.899164311527173" maxlat="45.380921860288773" maxlon="18.925801684918014"/></metadata>                  
+<wpt lat="45.342421264217442" lon="18.899164311527173">
+  <name>Nuštar - Marinci_1</name>
+</wpt>
+<wpt lat="45.343454192442394" lon="18.902678868098921">
+  <name>Nuštar - Marinci_2</name>
+</wpt>
+<wpt lat="45.344467953162571" lon="18.906243784736809">
+  <name>Nuštar - Marinci_3</name>
+</wpt>
+<wpt lat="45.345427117167326" lon="18.90983203414271">
+  <name>Nuštar - Marinci_4</name>
+</wpt>
+<wpt lat="45.34799559453765" lon="18.908371394241076">
+  <name>Nuštar - Marinci_5</name>
+</wpt>
+<wpt lat="45.350527823149044" lon="18.906921851835286">
+  <name>Nuštar - Marinci_6</name>
+</wpt>
+<wpt lat="45.353050238142636" lon="18.905510057185751">
+  <name>Nuštar - Marinci_7</name>
+</wpt>
+<wpt lat="45.354036923279892" lon="18.909074485750764">
+  <name>Nuštar - Marinci_8</name>
+</wpt>
+<wpt lat="45.357317232003346" lon="18.910553955335086">
+  <name>Nuštar - Marinci_9</name>
+</wpt>
+<wpt lat="45.373020986375764" lon="18.925801684918014">
+  <name>Nuštar - Lipovača_1</name>
+</wpt>
+<wpt lat="45.372299373561752" lon="18.922068337741326">
+  <name>Nuštar - Lipovača_2</name>
+</wpt>
+<wpt lat="45.371686604786106" lon="18.918288659481124">
+  <name>Nuštar - Lipovača_3</name>
+</wpt>
+<wpt lat="45.371534120104094" lon="18.914439290956548">
+  <name>Nuštar - Lipovača_4</name>
+</wpt>
+<wpt lat="45.374191035315825" lon="18.913479935793955">
+  <name>Nuštar - Lipovača_5</name>
+</wpt>
+<wpt lat="45.376820971262937" lon="18.912519347942112">
+  <name>Nuštar - Lipovača_6</name>
+</wpt>
+<wpt lat="45.379535696968176" lon="18.913081769833223">
+  <name>Nuštar - Lipovača_7</name>
+</wpt>
+<wpt lat="45.380248304665024" lon="18.909166491131053">
+  <name>Nuštar - Lipovača_8</name>
+</wpt>
+<wpt lat="45.380921860288773" lon="18.905389917838828">
+  <name>Nuštar - Lipovača_9</name>
+</wpt>
+</gpx>

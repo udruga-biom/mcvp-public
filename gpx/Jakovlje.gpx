@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.973778916883973" minlon="15.847185396794009" maxlat="45.990893812910144" maxlon="15.890781576438584"/></metadata>                  
+<wpt lat="45.990893812910144" lon="15.857302387893492">
+  <name>Jakovlje-Buhinički_1</name>
+</wpt>
+<wpt lat="45.990073683833295" lon="15.853602795551945">
+  <name>Jakovlje-Buhinički_2</name>
+</wpt>
+<wpt lat="45.987278913196363" lon="15.852760056458544">
+  <name>Jakovlje-Buhinički_3</name>
+</wpt>
+<wpt lat="45.987503082880629" lon="15.848838521144362">
+  <name>Jakovlje-Buhinički_4</name>
+</wpt>
+<wpt lat="45.9846708255942" lon="15.84843404995717">
+  <name>Jakovlje-Buhinički_5</name>
+</wpt>
+<wpt lat="45.982349221284359" lon="15.850437795158882">
+  <name>Jakovlje-Buhinički_6</name>
+</wpt>
+<wpt lat="45.979201700752448" lon="15.849972307777445">
+  <name>Jakovlje-Buhinički_7</name>
+</wpt>
+<wpt lat="45.976499071668023" lon="15.849720921048693">
+  <name>Jakovlje-Buhinički_8</name>
+</wpt>
+<wpt lat="45.973778916883973" lon="15.847185396794009">
+  <name>Jakovlje-Buhinički_9</name>
+</wpt>
+<wpt lat="45.984870586367691" lon="15.890781576438584">
+  <name>Jakovlje - Stubička Slatina_1</name>
+</wpt>
+<wpt lat="45.98244536961883" lon="15.887318111823923">
+  <name>Jakovlje - Stubička Slatina_2</name>
+</wpt>
+<wpt lat="45.979962577212333" lon="15.882159481057233">
+  <name>Jakovlje - Stubička Slatina_3</name>
+</wpt>
+<wpt lat="45.981123737887764" lon="15.878510353564621">
+  <name>Jakovlje - Stubička Slatina_4</name>
+</wpt>
+<wpt lat="45.982975782792906" lon="15.875647316981095">
+  <name>Jakovlje - Stubička Slatina_5</name>
+</wpt>
+<wpt lat="45.981593840174192" lon="15.872315195353508">
+  <name>Jakovlje - Stubička Slatina_6</name>
+</wpt>
+<wpt lat="45.97917432137254" lon="15.870002453790203">
+  <name>Jakovlje - Stubička Slatina_7</name>
+</wpt>
+<wpt lat="45.977178061506947" lon="15.866724678666458">
+  <name>Jakovlje - Stubička Slatina_8</name>
+</wpt>
+<wpt lat="45.978835878368031" lon="15.861741587695604">
+  <name>Jakovlje - Stubička Slatina_9</name>
+</wpt>
+</gpx>

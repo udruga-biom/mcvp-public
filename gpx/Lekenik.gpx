@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.533414821950117" minlon="16.205611356181283" maxlat="45.602310872910579" maxlon="16.246933016241904"/></metadata>                  
+<wpt lat="45.601917053959518" lon="16.205611356181283">
+  <name>Lekenik - Lekenik_1</name>
+</wpt>
+<wpt lat="45.599455742299327" lon="16.207252171679833">
+  <name>Lekenik - Lekenik_2</name>
+</wpt>
+<wpt lat="45.596830705549038" lon="16.208214343291431">
+  <name>Lekenik - Lekenik_3</name>
+</wpt>
+<wpt lat="45.595227460409397" lon="16.211145040460671">
+  <name>Lekenik - Lekenik_4</name>
+</wpt>
+<wpt lat="45.593777909737128" lon="16.214395219059274">
+  <name>Lekenik - Lekenik_5</name>
+</wpt>
+<wpt lat="45.596756016310316" lon="16.214264751010496">
+  <name>Lekenik - Lekenik_6</name>
+</wpt>
+<wpt lat="45.599447525764859" lon="16.214674098780083">
+  <name>Lekenik - Lekenik_7</name>
+</wpt>
+<wpt lat="45.599817150285624" lon="16.21858187916164">
+  <name>Lekenik - Lekenik_8</name>
+</wpt>
+<wpt lat="45.602310872910579" lon="16.219069356942857">
+  <name>Lekenik - Lekenik_9</name>
+</wpt>
+<wpt lat="45.533414821950117" lon="16.243803145868839">
+  <name>Lekenik - Dužica_1</name>
+</wpt>
+<wpt lat="45.534969520400686" lon="16.246933016241904">
+  <name>Lekenik - Dužica_2</name>
+</wpt>
+<wpt lat="45.537154826932564" lon="16.246347020799856">
+  <name>Lekenik - Dužica_3</name>
+</wpt>
+<wpt lat="45.539605356257852" lon="16.243646984460966">
+  <name>Lekenik - Dužica_4</name>
+</wpt>
+<wpt lat="45.541497810865003" lon="16.240898054889485">
+  <name>Lekenik - Dužica_5</name>
+</wpt>
+<wpt lat="45.544056074008452" lon="16.242102859659923">
+  <name>Lekenik - Dužica_6</name>
+</wpt>
+<wpt lat="45.546754426877818" lon="16.241591068552253">
+  <name>Lekenik - Dužica_7</name>
+</wpt>
+<wpt lat="45.548628656487672" lon="16.238764963476051">
+  <name>Lekenik - Dužica_8</name>
+</wpt>
+<wpt lat="45.55119686415" lon="16.236447719665691">
+  <name>Lekenik - Dužica_9</name>
+</wpt>
+</gpx>

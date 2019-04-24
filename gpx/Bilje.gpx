@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.655098521925879" minlon="18.736939928284798" maxlat="45.673974826260746" maxlon="18.825170379082255"/></metadata>                  
+<wpt lat="45.659557544073792" lon="18.736939928284798">
+  <name>Bilje - Lug_1</name>
+</wpt>
+<wpt lat="45.659095999786864" lon="18.740745555897966">
+  <name>Bilje - Lug_2</name>
+</wpt>
+<wpt lat="45.658507695879706" lon="18.744584550453347">
+  <name>Bilje - Lug_3</name>
+</wpt>
+<wpt lat="45.657964473038255" lon="18.748412438118716">
+  <name>Bilje - Lug_4</name>
+</wpt>
+<wpt lat="45.657510276724288" lon="18.752282318686461">
+  <name>Bilje - Lug_5</name>
+</wpt>
+<wpt lat="45.656985540763188" lon="18.75607231198142">
+  <name>Bilje - Lug_6</name>
+</wpt>
+<wpt lat="45.656446360023274" lon="18.760131118417682">
+  <name>Bilje - Lug_7</name>
+</wpt>
+<wpt lat="45.655803464329516" lon="18.76396752955695">
+  <name>Bilje - Lug_8</name>
+</wpt>
+<wpt lat="45.655098521925879" lon="18.767750022112143">
+  <name>Bilje - Lug_9</name>
+</wpt>
+<wpt lat="45.67393221577597" lon="18.816156991917126">
+  <name>Bilje - Kozjak pustara_1</name>
+</wpt>
+<wpt lat="45.673931115754904" lon="18.820200185169679">
+  <name>Bilje - Kozjak pustara_2</name>
+</wpt>
+<wpt lat="45.673974826260746" lon="18.824245234491805">
+  <name>Bilje - Kozjak pustara_3</name>
+</wpt>
+<wpt lat="45.671203815122794" lon="18.825105937036927">
+  <name>Bilje - Kozjak pustara_4</name>
+</wpt>
+<wpt lat="45.668422018646972" lon="18.825170379082255">
+  <name>Bilje - Kozjak pustara_5</name>
+</wpt>
+<wpt lat="45.665435522662158" lon="18.825123671008157">
+  <name>Bilje - Kozjak pustara_6</name>
+</wpt>
+<wpt lat="45.662450591669263" lon="18.825000040768796">
+  <name>Bilje - Kozjak pustara_7</name>
+</wpt>
+<wpt lat="45.659599737121304" lon="18.824920479134889">
+  <name>Bilje - Kozjak pustara_8</name>
+</wpt>
+<wpt lat="45.65689168915538" lon="18.824898171247394">
+  <name>Bilje - Kozjak pustara_9</name>
+</wpt>
+</gpx>

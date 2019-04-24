@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="46.006122137506559" minlon="15.834567259362768" maxlat="46.042994288012721" maxlon="15.926756285331196"/></metadata>                  
+<wpt lat="46.042994288012721" lon="15.837700330278397">
+  <name>Zabok - Gubaševo_1</name>
+</wpt>
+<wpt lat="46.040282228471398" lon="15.837047974271496">
+  <name>Zabok - Gubaševo_2</name>
+</wpt>
+<wpt lat="46.038135380023029" lon="15.834567259362768">
+  <name>Zabok - Gubaševo_3</name>
+</wpt>
+<wpt lat="46.035808255642181" lon="15.836675151422902">
+  <name>Zabok - Gubaševo_4</name>
+</wpt>
+<wpt lat="46.033708555382418" lon="15.839219382283291">
+  <name>Zabok - Gubaševo_5</name>
+</wpt>
+<wpt lat="46.033307887677061" lon="15.843073844763486">
+  <name>Zabok - Gubaševo_6</name>
+</wpt>
+<wpt lat="46.032907827703198" lon="15.847057427432224">
+  <name>Zabok - Gubaševo_7</name>
+</wpt>
+<wpt lat="46.030183799512209" lon="15.84745120044326">
+  <name>Zabok - Gubaševo_8</name>
+</wpt>
+<wpt lat="46.028474616986934" lon="15.8506748011258">
+  <name>Zabok - Gubaševo_9</name>
+</wpt>
+<wpt lat="46.016104916491983" lon="15.926756285331196">
+  <name>Zabok - Oroslavlje_1</name>
+</wpt>
+<wpt lat="46.013348542393487" lon="15.926139077142475">
+  <name>Zabok - Oroslavlje_2</name>
+</wpt>
+<wpt lat="46.012457083165543" lon="15.922429194910743">
+  <name>Zabok - Oroslavlje_3</name>
+</wpt>
+<wpt lat="46.011709327174955" lon="15.918692099441611">
+  <name>Zabok - Oroslavlje_4</name>
+</wpt>
+<wpt lat="46.010934391795715" lon="15.914942477901516">
+  <name>Zabok - Oroslavlje_5</name>
+</wpt>
+<wpt lat="46.010078958079845" lon="15.911310032091301">
+  <name>Zabok - Oroslavlje_6</name>
+</wpt>
+<wpt lat="46.010482809128739" lon="15.907625516219269">
+  <name>Zabok - Oroslavlje_7</name>
+</wpt>
+<wpt lat="46.007761153699668" lon="15.908519704787777">
+  <name>Zabok - Oroslavlje_8</name>
+</wpt>
+<wpt lat="46.006122137506559" lon="15.911726456898933">
+  <name>Zabok - Oroslavlje_9</name>
+</wpt>
+</gpx>

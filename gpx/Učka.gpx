@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.265075704161177" minlon="14.128489777710588" maxlat="45.300097468491678" maxlon="14.194031560385048"/></metadata>                  
+<wpt lat="45.278786268085831" lon="14.131651204340171">
+  <name>Učka - Katun B._1</name>
+</wpt>
+<wpt lat="45.28117605895131" lon="14.129728948941933">
+  <name>Učka - Katun B._2</name>
+</wpt>
+<wpt lat="45.283993956783817" lon="14.128489777710588">
+  <name>Učka - Katun B._3</name>
+</wpt>
+<wpt lat="45.286761358913836" lon="14.129152025718549">
+  <name>Učka - Katun B._4</name>
+</wpt>
+<wpt lat="45.28984741130175" lon="14.129992282877595">
+  <name>Učka - Katun B._5</name>
+</wpt>
+<wpt lat="45.292561916218169" lon="14.130707861290777">
+  <name>Učka - Katun B._6</name>
+</wpt>
+<wpt lat="45.295232254526098" lon="14.131463591895539">
+  <name>Učka - Katun B._7</name>
+</wpt>
+<wpt lat="45.297698449809893" lon="14.129754314825743">
+  <name>Učka - Katun B._8</name>
+</wpt>
+<wpt lat="45.300097468491678" lon="14.131745455107088">
+  <name>Učka - Katun B._9</name>
+</wpt>
+<wpt lat="45.278767613147188" lon="14.194031560385048">
+  <name>Učka - Mala Učka_1</name>
+</wpt>
+<wpt lat="45.28089951242076" lon="14.191319354206199">
+  <name>Učka - Mala Učka_2</name>
+</wpt>
+<wpt lat="45.27995873818579" lon="14.187520861801177">
+  <name>Učka - Mala Učka_3</name>
+</wpt>
+<wpt lat="45.278250313421267" lon="14.184480266895752">
+  <name>Učka - Mala Učka_4</name>
+</wpt>
+<wpt lat="45.275606412130458" lon="14.185454540256782">
+  <name>Učka - Mala Učka_5</name>
+</wpt>
+<wpt lat="45.272750140237648" lon="14.184831508761363">
+  <name>Učka - Mala Učka_6</name>
+</wpt>
+<wpt lat="45.269971737467074" lon="14.184498481472042">
+  <name>Učka - Mala Učka_7</name>
+</wpt>
+<wpt lat="45.267299306240346" lon="14.185397295302172">
+  <name>Učka - Mala Učka_8</name>
+</wpt>
+<wpt lat="45.265075704161177" lon="14.186685555567328">
+  <name>Učka - Mala Učka_9</name>
+</wpt>
+</gpx>

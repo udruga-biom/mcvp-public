@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="46.338126142456986" minlon="16.421641050800378" maxlat="46.371738231277988" maxlon="16.442899468481674"/></metadata>                  
+<wpt lat="46.370584678985502" lon="16.431739193482191">
+  <name>Čakovec - Savska Ves_1</name>
+</wpt>
+<wpt lat="46.370836989719024" lon="16.435676543404256">
+  <name>Čakovec - Savska Ves_2</name>
+</wpt>
+<wpt lat="46.371738231277988" lon="16.439479075535729">
+  <name>Čakovec - Savska Ves_3</name>
+</wpt>
+<wpt lat="46.369225204458182" lon="16.440915849244668">
+  <name>Čakovec - Savska Ves_4</name>
+</wpt>
+<wpt lat="46.366535627963287" lon="16.441627200085634">
+  <name>Čakovec - Savska Ves_5</name>
+</wpt>
+<wpt lat="46.363851961185325" lon="16.442472204417726">
+  <name>Čakovec - Savska Ves_6</name>
+</wpt>
+<wpt lat="46.361152784049331" lon="16.442899468481674">
+  <name>Čakovec - Savska Ves_7</name>
+</wpt>
+<wpt lat="46.358431769408028" lon="16.442303762686862">
+  <name>Čakovec - Savska Ves_8</name>
+</wpt>
+<wpt lat="46.355652553072581" lon="16.442445854872105">
+  <name>Čakovec - Savska Ves_9</name>
+</wpt>
+<wpt lat="46.338126142456986" lon="16.432605757865311">
+  <name>Čakovec - Novo Selo_1</name>
+</wpt>
+<wpt lat="46.339356878837627" lon="16.428782247017011">
+  <name>Čakovec - Novo Selo_2</name>
+</wpt>
+<wpt lat="46.34153116772552" lon="16.426442250861296">
+  <name>Čakovec - Novo Selo_3</name>
+</wpt>
+<wpt lat="46.343733946760565" lon="16.424129441306931">
+  <name>Čakovec - Novo Selo_4</name>
+</wpt>
+<wpt lat="46.34594042674577" lon="16.421641050800378">
+  <name>Čakovec - Novo Selo_5</name>
+</wpt>
+<wpt lat="46.348040157554202" lon="16.424159472326739">
+  <name>Čakovec - Novo Selo_6</name>
+</wpt>
+<wpt lat="46.350550136510158" lon="16.427441262261752">
+  <name>Čakovec - Novo Selo_7</name>
+</wpt>
+<wpt lat="46.348310507118974" lon="16.4299204465384">
+  <name>Čakovec - Novo Selo_8</name>
+</wpt>
+<wpt lat="46.345954123439633" lon="16.432083610624641">
+  <name>Čakovec - Novo Selo_9</name>
+</wpt>
+</gpx>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="44.391831530967288" minlon="15.918758326481843" maxlat="44.421063233187596" maxlon="15.955461890158062"/></metadata>                  
+<wpt lat="44.421063233187596" lon="15.918758326481843">
+  <name>Bruvno - Krivošlje_1</name>
+</wpt>
+<wpt lat="44.419489252811715" lon="15.921676557171347">
+  <name>Bruvno - Krivošlje_2</name>
+</wpt>
+<wpt lat="44.417743832805805" lon="15.924612260297165">
+  <name>Bruvno - Krivošlje_3</name>
+</wpt>
+<wpt lat="44.415527322801651" lon="15.927073960027863">
+  <name>Bruvno - Krivošlje_4</name>
+</wpt>
+<wpt lat="44.412746643465326" lon="15.926447293783523">
+  <name>Bruvno - Krivošlje_5</name>
+</wpt>
+<wpt lat="44.410115340587815" lon="15.925208002453235">
+  <name>Bruvno - Krivošlje_6</name>
+</wpt>
+<wpt lat="44.407750700182866" lon="15.923237990505976">
+  <name>Bruvno - Krivošlje_7</name>
+</wpt>
+<wpt lat="44.405307804257767" lon="15.921603746566726">
+  <name>Bruvno - Krivošlje_8</name>
+</wpt>
+<wpt lat="44.402797521035346" lon="15.92020946370711">
+  <name>Bruvno - Krivošlje_9</name>
+</wpt>
+<wpt lat="44.393297590860378" lon="15.926075952672177">
+  <name>Bruvno -Krajnovići_1</name>
+</wpt>
+<wpt lat="44.392810647223044" lon="15.93020373573358">
+  <name>Bruvno -Krajnovići_2</name>
+</wpt>
+<wpt lat="44.391831530967288" lon="15.933771727842963">
+  <name>Bruvno -Krajnovići_3</name>
+</wpt>
+<wpt lat="44.392418782874664" lon="15.937577016114258">
+  <name>Bruvno -Krajnovići_4</name>
+</wpt>
+<wpt lat="44.392518300421287" lon="15.941405220801945">
+  <name>Bruvno -Krajnovići_5</name>
+</wpt>
+<wpt lat="44.392441251331476" lon="15.945152136983943">
+  <name>Bruvno -Krajnovići_6</name>
+</wpt>
+<wpt lat="44.393334284187873" lon="15.948597721241114">
+  <name>Bruvno -Krajnovići_7</name>
+</wpt>
+<wpt lat="44.393676118858245" lon="15.952340773509315">
+  <name>Bruvno -Krajnovići_8</name>
+</wpt>
+<wpt lat="44.395196050473373" lon="15.955461890158062">
+  <name>Bruvno -Krajnovići_9</name>
+</wpt>
+</gpx>

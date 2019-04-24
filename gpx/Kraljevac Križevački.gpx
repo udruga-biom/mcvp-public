@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.939258395122913" minlon="16.779664928706580" maxlat="46.020089434352876" maxlon="16.807513564519798"/></metadata>                  
+<wpt lat="46.020089434352876" lon="16.781375330695191">
+  <name>Kraljevac Križevački - Jakopovac_1</name>
+</wpt>
+<wpt lat="46.017401425770245" lon="16.780924276271403">
+  <name>Kraljevac Križevački - Jakopovac_2</name>
+</wpt>
+<wpt lat="46.017046666940089" lon="16.784734999503232">
+  <name>Kraljevac Križevački - Jakopovac_3</name>
+</wpt>
+<wpt lat="46.012984148811761" lon="16.782632856618129">
+  <name>Kraljevac Križevački - Jakopovac_4</name>
+</wpt>
+<wpt lat="46.010281173510577" lon="16.782559043232109">
+  <name>Kraljevac Križevački - Jakopovac_5</name>
+</wpt>
+<wpt lat="46.007689109883103" lon="16.781438862894113">
+  <name>Kraljevac Križevački - Jakopovac_6</name>
+</wpt>
+<wpt lat="46.004971542756465" lon="16.78147969868095">
+  <name>Kraljevac Križevački - Jakopovac_7</name>
+</wpt>
+<wpt lat="46.002360188819985" lon="16.780588624083833">
+  <name>Kraljevac Križevački - Jakopovac_8</name>
+</wpt>
+<wpt lat="45.999176836085667" lon="16.77966492870658">
+  <name>Kraljevac Križevački - Jakopovac_9</name>
+</wpt>
+<wpt lat="45.960343200055171" lon="16.807513564519798">
+  <name>Kraljevac Križevački - Kobasičari_1</name>
+</wpt>
+<wpt lat="45.958073027034075" lon="16.805384743419406">
+  <name>Kraljevac Križevački - Kobasičari_2</name>
+</wpt>
+<wpt lat="45.956204818356603" lon="16.802480004441882">
+  <name>Kraljevac Križevački - Kobasičari_3</name>
+</wpt>
+<wpt lat="45.95410890259673" lon="16.798643371886566">
+  <name>Kraljevac Križevački - Kobasičari_4</name>
+</wpt>
+<wpt lat="45.950826662079976" lon="16.796555290354977">
+  <name>Kraljevac Križevački - Kobasičari_5</name>
+</wpt>
+<wpt lat="45.947927266099597" lon="16.795396501678059">
+  <name>Kraljevac Križevački - Kobasičari_6</name>
+</wpt>
+<wpt lat="45.944294648616783" lon="16.802230141845271">
+  <name>Kraljevac Križevački - Kobasičari_7</name>
+</wpt>
+<wpt lat="45.941645242356465" lon="16.799847583185773">
+  <name>Kraljevac Križevački - Kobasičari_8</name>
+</wpt>
+<wpt lat="45.939258395122913" lon="16.796751414561829">
+  <name>Kraljevac Križevački - Kobasičari_9</name>
+</wpt>
+</gpx>

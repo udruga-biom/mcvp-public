@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.154734828676261" minlon="17.883552153156472" maxlat="45.164366109900563" maxlon="17.950060863556448"/></metadata>                  
+<wpt lat="45.159798583946476" lon="17.914410527024703">
+  <name>Slavonski Brod - Slobodnica Zapad_1</name>
+</wpt>
+<wpt lat="45.159601502975825" lon="17.910504081959665">
+  <name>Slavonski Brod - Slobodnica Zapad_2</name>
+</wpt>
+<wpt lat="45.159430814862461" lon="17.90638742533562">
+  <name>Slavonski Brod - Slobodnica Zapad_3</name>
+</wpt>
+<wpt lat="45.161237105430914" lon="17.903438642655672">
+  <name>Slavonski Brod - Slobodnica Zapad_4</name>
+</wpt>
+<wpt lat="45.161044610534212" lon="17.899553236976789">
+  <name>Slavonski Brod - Slobodnica Zapad_5</name>
+</wpt>
+<wpt lat="45.160877383902474" lon="17.895393473633813">
+  <name>Slavonski Brod - Slobodnica Zapad_6</name>
+</wpt>
+<wpt lat="45.160656912794238" lon="17.891433028266519">
+  <name>Slavonski Brod - Slobodnica Zapad_7</name>
+</wpt>
+<wpt lat="45.160553468781892" lon="17.887509797523624">
+  <name>Slavonski Brod - Slobodnica Zapad_8</name>
+</wpt>
+<wpt lat="45.16005768125445" lon="17.883552153156472">
+  <name>Slavonski Brod - Slobodnica Zapad_9</name>
+</wpt>
+<wpt lat="45.164366109900563" lon="17.947911893371163">
+  <name>Slavonski Brod - Slobodnica_1</name>
+</wpt>
+<wpt lat="45.161560315381656" lon="17.948600314010815">
+  <name>Slavonski Brod - Slobodnica_2</name>
+</wpt>
+<wpt lat="45.158884368086305" lon="17.94932439715862">
+  <name>Slavonski Brod - Slobodnica_3</name>
+</wpt>
+<wpt lat="45.156077412433092" lon="17.950060863556448">
+  <name>Slavonski Brod - Slobodnica_4</name>
+</wpt>
+<wpt lat="45.155066209287419" lon="17.946249437937137">
+  <name>Slavonski Brod - Slobodnica_5</name>
+</wpt>
+<wpt lat="45.155093641849774" lon="17.942423020112297">
+  <name>Slavonski Brod - Slobodnica_6</name>
+</wpt>
+<wpt lat="45.155122780945874" lon="17.938600965864463">
+  <name>Slavonski Brod - Slobodnica_7</name>
+</wpt>
+<wpt lat="45.155142176835753" lon="17.934792144781468">
+  <name>Slavonski Brod - Slobodnica_8</name>
+</wpt>
+<wpt lat="45.154734828676261" lon="17.931010030884373">
+  <name>Slavonski Brod - Slobodnica_9</name>
+</wpt>
+</gpx>

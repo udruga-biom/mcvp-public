@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.720863233198195" minlon="15.928118713752546" maxlat="45.748568782267576" maxlon="16.002788236412176"/></metadata>                  
+<wpt lat="45.742991072805047" lon="15.928118713752546">
+  <name>Zagreb - Botinec_1</name>
+</wpt>
+<wpt lat="45.744231870059863" lon="15.931537410889034">
+  <name>Zagreb - Botinec_2</name>
+</wpt>
+<wpt lat="45.745884993220827" lon="15.934656504551972">
+  <name>Zagreb - Botinec_3</name>
+</wpt>
+<wpt lat="45.746622993348858" lon="15.938337609653701">
+  <name>Zagreb - Botinec_4</name>
+</wpt>
+<wpt lat="45.747702659106409" lon="15.941989702648153">
+  <name>Zagreb - Botinec_5</name>
+</wpt>
+<wpt lat="45.746722376760786" lon="15.945790848769191">
+  <name>Zagreb - Botinec_6</name>
+</wpt>
+<wpt lat="45.74787539564992" lon="15.949776532932809">
+  <name>Zagreb - Botinec_7</name>
+</wpt>
+<wpt lat="45.748568782267576" lon="15.953638338841486">
+  <name>Zagreb - Botinec_8</name>
+</wpt>
+<wpt lat="45.74670163966455" lon="15.956458318176727">
+  <name>Zagreb - Botinec_9</name>
+</wpt>
+<wpt lat="45.720863233198195" lon="16.002788236412176">
+  <name>Zagreb - Mala Mlaka_1</name>
+</wpt>
+<wpt lat="45.721613375041578" lon="15.997373260949391">
+  <name>Zagreb - Mala Mlaka_2</name>
+</wpt>
+<wpt lat="45.721191514908291" lon="15.993536008231905">
+  <name>Zagreb - Mala Mlaka_3</name>
+</wpt>
+<wpt lat="45.722416741237438" lon="15.989825130014578">
+  <name>Zagreb - Mala Mlaka_4</name>
+</wpt>
+<wpt lat="45.722732440741893" lon="15.985981115264012">
+  <name>Zagreb - Mala Mlaka_5</name>
+</wpt>
+<wpt lat="45.721564901055444" lon="15.982484766124054">
+  <name>Zagreb - Mala Mlaka_6</name>
+</wpt>
+<wpt lat="45.722537948523012" lon="15.978801659612083">
+  <name>Zagreb - Mala Mlaka_7</name>
+</wpt>
+<wpt lat="45.723321688675568" lon="15.975068810769153">
+  <name>Zagreb - Mala Mlaka_8</name>
+</wpt>
+<wpt lat="45.724520388939141" lon="15.971588883982331">
+  <name>Zagreb - Mala Mlaka_9</name>
+</wpt>
+</gpx>

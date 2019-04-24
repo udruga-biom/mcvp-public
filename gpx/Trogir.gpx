@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="43.505192350296575" minlon="16.165508130823490" maxlat="43.528875108910682" maxlon="16.284383015941209"/></metadata>                  
+<wpt lat="43.528875108910682" lon="16.16550813082349">
+  <name>Trogir -Vrsine-Vranjica_1</name>
+</wpt>
+<wpt lat="43.527353804900692" lon="16.168584623701257">
+  <name>Trogir -Vrsine-Vranjica_2</name>
+</wpt>
+<wpt lat="43.525046091896165" lon="16.170551851073533">
+  <name>Trogir -Vrsine-Vranjica_3</name>
+</wpt>
+<wpt lat="43.525722723840168" lon="16.174222350606811">
+  <name>Trogir -Vrsine-Vranjica_4</name>
+</wpt>
+<wpt lat="43.52470651874777" lon="16.17774111941074">
+  <name>Trogir -Vrsine-Vranjica_5</name>
+</wpt>
+<wpt lat="43.524131653738351" lon="16.181393523633897">
+  <name>Trogir -Vrsine-Vranjica_6</name>
+</wpt>
+<wpt lat="43.522284877163678" lon="16.184112333898689">
+  <name>Trogir -Vrsine-Vranjica_7</name>
+</wpt>
+<wpt lat="43.519621683566115" lon="16.184571538815256">
+  <name>Trogir -Vrsine-Vranjica_8</name>
+</wpt>
+<wpt lat="43.517231353299287" lon="16.186055931006525">
+  <name>Trogir -Vrsine-Vranjica_9</name>
+</wpt>
+<wpt lat="43.505192350296575" lon="16.280934529556077">
+  <name>Trogir - Žedno_1</name>
+</wpt>
+<wpt lat="43.505653646661678" lon="16.2774206648233">
+  <name>Trogir - Žedno_2</name>
+</wpt>
+<wpt lat="43.507927768921959" lon="16.275742716008949">
+  <name>Trogir - Žedno_3</name>
+</wpt>
+<wpt lat="43.508740062664728" lon="16.272276803259292">
+  <name>Trogir - Žedno_4</name>
+</wpt>
+<wpt lat="43.509930514463036" lon="16.26890829625788">
+  <name>Trogir - Žedno_5</name>
+</wpt>
+<wpt lat="43.510049001959267" lon="16.26520987609312">
+  <name>Trogir - Žedno_6</name>
+</wpt>
+<wpt lat="43.511149255526462" lon="16.261853880057558">
+  <name>Trogir - Žedno_7</name>
+</wpt>
+<wpt lat="43.510916403743629" lon="16.258132038726082">
+  <name>Trogir - Žedno_8</name>
+</wpt>
+<wpt lat="43.505711995646998" lon="16.284383015941209">
+  <name>Trogir - Žedno_9</name>
+</wpt>
+</gpx>

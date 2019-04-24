@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.712257520320868" minlon="16.231908007479294" maxlat="45.727835089717047" maxlon="16.281084508430965"/></metadata>                  
+<wpt lat="45.712257520320868" lon="16.235091404686944">
+  <name>Rugvica - Preseka_1</name>
+</wpt>
+<wpt lat="45.712890888674202" lon="16.238839993634155">
+  <name>Rugvica - Preseka_2</name>
+</wpt>
+<wpt lat="45.715095717310916" lon="16.241064602073372">
+  <name>Rugvica - Preseka_3</name>
+</wpt>
+<wpt lat="45.717304032750683" lon="16.238812628125221">
+  <name>Rugvica - Preseka_4</name>
+</wpt>
+<wpt lat="45.719550034585616" lon="16.236534479014683">
+  <name>Rugvica - Preseka_5</name>
+</wpt>
+<wpt lat="45.724175086327755" lon="16.231908007479294">
+  <name>Rugvica - Preseka_6</name>
+</wpt>
+<wpt lat="45.721750284111231" lon="16.23425816232719">
+  <name>Rugvica - Preseka_7</name>
+</wpt>
+<wpt lat="45.725742438563593" lon="16.235060947779978">
+  <name>Rugvica - Preseka_8</name>
+</wpt>
+<wpt lat="45.727301998448418" lon="16.238228490002093">
+  <name>Rugvica - Preseka_9</name>
+</wpt>
+<wpt lat="45.713202671853225" lon="16.276512291400483">
+  <name>Rugvica - Ježevo_1</name>
+</wpt>
+<wpt lat="45.715421003140776" lon="16.274284870728842">
+  <name>Rugvica - Ježevo_2</name>
+</wpt>
+<wpt lat="45.717809567949786" lon="16.272480739297894">
+  <name>Rugvica - Ježevo_3</name>
+</wpt>
+<wpt lat="45.720105200457915" lon="16.274543355755995">
+  <name>Rugvica - Ježevo_4</name>
+</wpt>
+<wpt lat="45.721383200020718" lon="16.277943900026436">
+  <name>Rugvica - Ježevo_5</name>
+</wpt>
+<wpt lat="45.723108165007851" lon="16.281084508430965">
+  <name>Rugvica - Ježevo_6</name>
+</wpt>
+<wpt lat="45.725492028361757" lon="16.27926142268123">
+  <name>Rugvica - Ježevo_7</name>
+</wpt>
+<wpt lat="45.727835089717047" lon="16.277479070968912">
+  <name>Rugvica - Ježevo_8</name>
+</wpt>
+<wpt lat="45.727774063598424" lon="16.273667250833995">
+  <name>Rugvica - Ježevo_9</name>
+</wpt>
+</gpx>

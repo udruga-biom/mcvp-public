@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="43.586178870518836" minlon="16.445775016729410" maxlat="43.597987950554845" maxlon="16.494934942872970"/></metadata>                  
+<wpt lat="43.597987950554845" lon="16.44577501672941">
+  <name>Split - Bročanac_1</name>
+</wpt>
+<wpt lat="43.595702546590935" lon="16.447845417342297">
+  <name>Split - Bročanac_2</name>
+</wpt>
+<wpt lat="43.594659887263077" lon="16.451264607081985">
+  <name>Split - Bročanac_3</name>
+</wpt>
+<wpt lat="43.593689161546777" lon="16.454745549308278">
+  <name>Split - Bročanac_4</name>
+</wpt>
+<wpt lat="43.593303518593885" lon="16.458486056320819">
+  <name>Split - Bročanac_5</name>
+</wpt>
+<wpt lat="43.594024878170323" lon="16.462064818489633">
+  <name>Split - Bročanac_6</name>
+</wpt>
+<wpt lat="43.593846040198947" lon="16.4658423372986">
+  <name>Split - Bročanac_7</name>
+</wpt>
+<wpt lat="43.59332499923039" lon="16.469533312057195">
+  <name>Split - Bročanac_8</name>
+</wpt>
+<wpt lat="43.595089997878866" lon="16.472343860756098">
+  <name>Split - Bročanac_9</name>
+</wpt>
+<wpt lat="43.58956611458499" lon="16.491232084269861">
+  <name>Split - Konjsko_1</name>
+</wpt>
+<wpt lat="43.588656643501082" lon="16.487715195703455">
+  <name>Split - Konjsko_2</name>
+</wpt>
+<wpt lat="43.589278291954002" lon="16.49493494287297">
+  <name>Split - Konjsko_3</name>
+</wpt>
+<wpt lat="43.588485159678001" lon="16.484024846221878">
+  <name>Split - Konjsko_4</name>
+</wpt>
+<wpt lat="43.588151562271655" lon="16.480520327051352">
+  <name>Split - Konjsko_5</name>
+</wpt>
+<wpt lat="43.586179506148909" lon="16.47659543550969">
+  <name>Split - Konjsko_6</name>
+</wpt>
+<wpt lat="43.586178870518836" lon="16.473672961077227">
+  <name>Split - Konjsko_7</name>
+</wpt>
+<wpt lat="43.586781078555894" lon="16.470056719331016">
+  <name>Split - Konjsko_8</name>
+</wpt>
+<wpt lat="43.586780023291496" lon="16.466267371767451">
+  <name>Split - Konjsko_9</name>
+</wpt>
+</gpx>

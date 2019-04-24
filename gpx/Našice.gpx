@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.513119192129508" minlon="18.058617044791927" maxlat="45.527886145873254" maxlon="18.182057311527551"/></metadata>                  
+<wpt lat="45.524841916424037" lon="18.058617044791927">
+  <name>Našice- Brezik Našički_1</name>
+</wpt>
+<wpt lat="45.526543655010151" lon="18.061617720085877">
+  <name>Našice- Brezik Našički_2</name>
+</wpt>
+<wpt lat="45.525136926490923" lon="18.064898126398983">
+  <name>Našice- Brezik Našički_3</name>
+</wpt>
+<wpt lat="45.523121563559954" lon="18.0674162994429">
+  <name>Našice- Brezik Našički_4</name>
+</wpt>
+<wpt lat="45.521149564507958" lon="18.069983375623647">
+  <name>Našice- Brezik Našički_5</name>
+</wpt>
+<wpt lat="45.51910322626437" lon="18.072527466491323">
+  <name>Našice- Brezik Našički_6</name>
+</wpt>
+<wpt lat="45.517037310857141" lon="18.07500580553333">
+  <name>Našice- Brezik Našički_7</name>
+</wpt>
+<wpt lat="45.515050246047522" lon="18.077524054861716">
+  <name>Našice- Brezik Našički_8</name>
+</wpt>
+<wpt lat="45.513119192129508" lon="18.0801588867674">
+  <name>Našice- Brezik Našički_9</name>
+</wpt>
+<wpt lat="45.517650033062495" lon="18.161223779612637">
+  <name>Našice - Jelisavac_1</name>
+</wpt>
+<wpt lat="45.516478210334981" lon="18.164798290061135">
+  <name>Našice - Jelisavac_2</name>
+</wpt>
+<wpt lat="45.515296640070439" lon="18.168268561397646">
+  <name>Našice - Jelisavac_3</name>
+</wpt>
+<wpt lat="45.517228159524038" lon="18.171136757203882">
+  <name>Našice - Jelisavac_4</name>
+</wpt>
+<wpt lat="45.519745500057908" lon="18.172745813088003">
+  <name>Našice - Jelisavac_5</name>
+</wpt>
+<wpt lat="45.520045093673168" lon="18.177185329858006">
+  <name>Našice - Jelisavac_6</name>
+</wpt>
+<wpt lat="45.522645793398212" lon="18.178829094455956">
+  <name>Našice - Jelisavac_7</name>
+</wpt>
+<wpt lat="45.525291832871076" lon="18.180465915386069">
+  <name>Našice - Jelisavac_8</name>
+</wpt>
+<wpt lat="45.527886145873254" lon="18.182057311527551">
+  <name>Našice - Jelisavac_9</name>
+</wpt>
+</gpx>

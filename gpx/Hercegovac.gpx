@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.694471864002033" minlon="16.944019271104814" maxlat="45.727024590004440" maxlon="17.006660534833337"/></metadata>                  
+<wpt lat="45.725727720624214" lon="16.976230935139004">
+  <name>Hercegovac - Dražica_1</name>
+</wpt>
+<wpt lat="45.724738401530381" lon="16.971997765098944">
+  <name>Hercegovac - Dražica_2</name>
+</wpt>
+<wpt lat="45.72413500846482" lon="16.967418914058019">
+  <name>Hercegovac - Dražica_3</name>
+</wpt>
+<wpt lat="45.72473483667271" lon="16.963661005865351">
+  <name>Hercegovac - Dražica_4</name>
+</wpt>
+<wpt lat="45.725738524987037" lon="16.960067051284096">
+  <name>Hercegovac - Dražica_5</name>
+</wpt>
+<wpt lat="45.72702459000444" lon="16.954770776060567">
+  <name>Hercegovac - Dražica_6</name>
+</wpt>
+<wpt lat="45.726151619978744" lon="16.950722925700763">
+  <name>Hercegovac - Dražica_7</name>
+</wpt>
+<wpt lat="45.725043701926367" lon="16.947192482573101">
+  <name>Hercegovac - Dražica_8</name>
+</wpt>
+<wpt lat="45.723507597502767" lon="16.944019271104814">
+  <name>Hercegovac - Dražica_9</name>
+</wpt>
+<wpt lat="45.701329676344834" lon="17.006331498651207">
+  <name>Hercegovac - Ladislav_1</name>
+</wpt>
+<wpt lat="45.704034312975494" lon="17.006660534833337">
+  <name>Hercegovac - Ladislav_2</name>
+</wpt>
+<wpt lat="45.70592920956669" lon="17.003897449012115">
+  <name>Hercegovac - Ladislav_3</name>
+</wpt>
+<wpt lat="45.705517142620877" lon="16.999707546219803">
+  <name>Hercegovac - Ladislav_4</name>
+</wpt>
+<wpt lat="45.703634364220356" lon="16.994145359497036">
+  <name>Hercegovac - Ladislav_5</name>
+</wpt>
+<wpt lat="45.701354581125912" lon="16.991061110632579">
+  <name>Hercegovac - Ladislav_6</name>
+</wpt>
+<wpt lat="45.699391936211697" lon="16.987799323671659">
+  <name>Hercegovac - Ladislav_7</name>
+</wpt>
+<wpt lat="45.69674175986718" lon="16.988484314646104">
+  <name>Hercegovac - Ladislav_8</name>
+</wpt>
+<wpt lat="45.694471864002033" lon="16.99046479042941">
+  <name>Hercegovac - Ladislav_9</name>
+</wpt>
+</gpx>

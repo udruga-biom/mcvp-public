@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="44.586849187566763" minlon="15.672292279170390" maxlat="44.641209844496565" maxlon="15.733440869973528"/></metadata>                  
+<wpt lat="44.622174887278092" lon="15.67229227917039">
+  <name>Krbava - Krbava_1</name>
+</wpt>
+<wpt lat="44.62308517894764" lon="15.676170251325404">
+  <name>Krbava - Krbava_2</name>
+</wpt>
+<wpt lat="44.625686470352775" lon="15.677217128341393">
+  <name>Krbava - Krbava_3</name>
+</wpt>
+<wpt lat="44.628281787741848" lon="15.678510945184684">
+  <name>Krbava - Krbava_4</name>
+</wpt>
+<wpt lat="44.630816743169412" lon="15.679860802686047">
+  <name>Krbava - Krbava_5</name>
+</wpt>
+<wpt lat="44.633463851718552" lon="15.680914014135109">
+  <name>Krbava - Krbava_6</name>
+</wpt>
+<wpt lat="44.635828076609911" lon="15.682833314453324">
+  <name>Krbava - Krbava_7</name>
+</wpt>
+<wpt lat="44.638592783472753" lon="15.683911822644783">
+  <name>Krbava - Krbava_8</name>
+</wpt>
+<wpt lat="44.641209844496565" lon="15.685085906361426">
+  <name>Krbava - Krbava_9</name>
+</wpt>
+<wpt lat="44.588729908554868" lon="15.733440869973528">
+  <name>Krbava - Diklići_1</name>
+</wpt>
+<wpt lat="44.587852143971013" lon="15.729787899945547">
+  <name>Krbava - Diklići_2</name>
+</wpt>
+<wpt lat="44.586849187566763" lon="15.726244630508099">
+  <name>Krbava - Diklići_3</name>
+</wpt>
+<wpt lat="44.587230814193894" lon="15.722485934138899">
+  <name>Krbava - Diklići_4</name>
+</wpt>
+<wpt lat="44.587783790420829" lon="15.716812606375024">
+  <name>Krbava - Diklići_5</name>
+</wpt>
+<wpt lat="44.588763194934458" lon="15.713282872567991">
+  <name>Krbava - Diklići_6</name>
+</wpt>
+<wpt lat="44.587598145711958" lon="15.709396699586458">
+  <name>Krbava - Diklići_7</name>
+</wpt>
+<wpt lat="44.589820947603116" lon="15.707088215052108">
+  <name>Krbava - Diklići_8</name>
+</wpt>
+<wpt lat="44.59258610527047" lon="15.704596203050546">
+  <name>Krbava - Diklići_9</name>
+</wpt>
+</gpx>

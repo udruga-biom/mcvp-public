@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="44.264882980967101" minlon="16.041356024586932" maxlat="44.293904807736901" maxlon="16.083406608601848"/></metadata>                  
+<wpt lat="44.264882980967101" lon="16.055123229268116">
+  <name>Velika Popina - Škundrići_1</name>
+</wpt>
+<wpt lat="44.267468821447054" lon="16.053608555842995">
+  <name>Velika Popina - Škundrići_2</name>
+</wpt>
+<wpt lat="44.269867432775129" lon="16.051933209218234">
+  <name>Velika Popina - Škundrići_3</name>
+</wpt>
+<wpt lat="44.272313628979433" lon="16.050257487892829">
+  <name>Velika Popina - Škundrići_4</name>
+</wpt>
+<wpt lat="44.274663792196819" lon="16.04838355783308">
+  <name>Velika Popina - Škundrići_5</name>
+</wpt>
+<wpt lat="44.277062322122745" lon="16.046707792510787">
+  <name>Velika Popina - Škundrići_6</name>
+</wpt>
+<wpt lat="44.279824783823607" lon="16.045072930045784">
+  <name>Velika Popina - Škundrići_7</name>
+</wpt>
+<wpt lat="44.282185900406844" lon="16.043236804884813">
+  <name>Velika Popina - Škundrići_8</name>
+</wpt>
+<wpt lat="44.284647341099785" lon="16.041356024586932">
+  <name>Velika Popina - Škundrići_9</name>
+</wpt>
+<wpt lat="44.286884998230413" lon="16.083406608601848">
+  <name>Velika Popina - Podljut_1</name>
+</wpt>
+<wpt lat="44.287476934387755" lon="16.079838835573021">
+  <name>Velika Popina - Podljut_2</name>
+</wpt>
+<wpt lat="44.288103830398143" lon="16.076141681637125">
+  <name>Velika Popina - Podljut_3</name>
+</wpt>
+<wpt lat="44.288593057666802" lon="16.072462237932292">
+  <name>Velika Popina - Podljut_4</name>
+</wpt>
+<wpt lat="44.289539670838472" lon="16.068858828091066">
+  <name>Velika Popina - Podljut_5</name>
+</wpt>
+<wpt lat="44.290784503455662" lon="16.065555587887953">
+  <name>Velika Popina - Podljut_6</name>
+</wpt>
+<wpt lat="44.292132232630408" lon="16.062283271736121">
+  <name>Velika Popina - Podljut_7</name>
+</wpt>
+<wpt lat="44.292963299588024" lon="16.058441758142767">
+  <name>Velika Popina - Podljut_8</name>
+</wpt>
+<wpt lat="44.293904807736901" lon="16.054912328918231">
+  <name>Velika Popina - Podljut_9</name>
+</wpt>
+</gpx>

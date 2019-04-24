@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="43.006734942455715" minlon="17.636900426088317" maxlat="43.041829702746007" maxlon="17.658928132893479"/></metadata>                  
+<wpt lat="43.016760253087824" lon="17.656088761204977">
+  <name>Metković - Bijeli Vir_1</name>
+</wpt>
+<wpt lat="43.014787261298785" lon="17.653561389587992">
+  <name>Metković - Bijeli Vir_2</name>
+</wpt>
+<wpt lat="43.015283444539904" lon="17.649878050529821">
+  <name>Metković - Bijeli Vir_3</name>
+</wpt>
+<wpt lat="43.013965482427736" lon="17.646651613389977">
+  <name>Metković - Bijeli Vir_4</name>
+</wpt>
+<wpt lat="43.012646692155364" lon="17.64349890333834">
+  <name>Metković - Bijeli Vir_5</name>
+</wpt>
+<wpt lat="43.00993537887058" lon="17.642761657889348">
+  <name>Metković - Bijeli Vir_6</name>
+</wpt>
+<wpt lat="43.007779993020122" lon="17.640440151189683">
+  <name>Metković - Bijeli Vir_7</name>
+</wpt>
+<wpt lat="43.006734942455715" lon="17.636900426088317">
+  <name>Metković - Bijeli Vir_8</name>
+</wpt>
+<wpt lat="43.009407633390147" lon="17.636998791136769">
+  <name>Metković - Bijeli Vir_9</name>
+</wpt>
+<wpt lat="43.041829702746007" lon="17.658928132893479">
+  <name>Metković - Klade_1</name>
+</wpt>
+<wpt lat="43.039711671337358" lon="17.656507354206102">
+  <name>Metković - Klade_2</name>
+</wpt>
+<wpt lat="43.037611710754668" lon="17.654074809950227">
+  <name>Metković - Klade_3</name>
+</wpt>
+<wpt lat="43.036810370405362" lon="17.650513138135608">
+  <name>Metković - Klade_4</name>
+</wpt>
+<wpt lat="43.035410578421356" lon="17.647369927986869">
+  <name>Metković - Klade_5</name>
+</wpt>
+<wpt lat="43.036863499389312" lon="17.644316686671647">
+  <name>Metković - Klade_6</name>
+</wpt>
+<wpt lat="43.035717875396166" lon="17.640945157597884">
+  <name>Metković - Klade_7</name>
+</wpt>
+<wpt lat="43.033157166575613" lon="17.639547857617234">
+  <name>Metković - Klade_8</name>
+</wpt>
+<wpt lat="43.03046828014363" lon="17.640173005008847">
+  <name>Metković - Klade_9</name>
+</wpt>
+</gpx>

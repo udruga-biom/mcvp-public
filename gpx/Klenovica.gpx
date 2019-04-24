@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.059066030730548" minlon="14.877923648067929" maxlat="45.116838298388934" maxlon="14.928266806675049"/></metadata>                  
+<wpt lat="45.097892522207736" lon="14.890934685127622">
+  <name>Klenovica - Podmelnik_1</name>
+</wpt>
+<wpt lat="45.100458283035671" lon="14.88968599592801">
+  <name>Klenovica - Podmelnik_2</name>
+</wpt>
+<wpt lat="45.102565190850015" lon="14.887138890819458">
+  <name>Klenovica - Podmelnik_3</name>
+</wpt>
+<wpt lat="45.105004077529429" lon="14.884914146118922">
+  <name>Klenovica - Podmelnik_4</name>
+</wpt>
+<wpt lat="45.106041804748337" lon="14.881142754423733">
+  <name>Klenovica - Podmelnik_5</name>
+</wpt>
+<wpt lat="45.108587629543131" lon="14.879904804081454">
+  <name>Klenovica - Podmelnik_6</name>
+</wpt>
+<wpt lat="45.111461428523796" lon="14.877923648067929">
+  <name>Klenovica - Podmelnik_7</name>
+</wpt>
+<wpt lat="45.114247715616983" lon="14.878157983372683">
+  <name>Klenovica - Podmelnik_8</name>
+</wpt>
+<wpt lat="45.116838298388934" lon="14.879249830477042">
+  <name>Klenovica - Podmelnik_9</name>
+</wpt>
+<wpt lat="45.059940805261306" lon="14.928266806675049">
+  <name>Klenovica - Ruševo Krmpotsko_1</name>
+</wpt>
+<wpt lat="45.059066030730548" lon="14.924690631315373">
+  <name>Klenovica - Ruševo Krmpotsko_2</name>
+</wpt>
+<wpt lat="45.061510525718461" lon="14.922817622890074">
+  <name>Klenovica - Ruševo Krmpotsko_3</name>
+</wpt>
+<wpt lat="45.067829136565123" lon="14.919157929663513">
+  <name>Klenovica - Ruševo Krmpotsko_4</name>
+</wpt>
+<wpt lat="45.070128415497642" lon="14.917125080503522">
+  <name>Klenovica - Ruševo Krmpotsko_5</name>
+</wpt>
+<wpt lat="45.071750599820646" lon="14.913921814880617">
+  <name>Klenovica - Ruševo Krmpotsko_6</name>
+</wpt>
+<wpt lat="45.073314907896524" lon="14.910665994850516">
+  <name>Klenovica - Ruševo Krmpotsko_7</name>
+</wpt>
+<wpt lat="45.075892229986515" lon="14.909145747725271">
+  <name>Klenovica - Ruševo Krmpotsko_8</name>
+</wpt>
+<wpt lat="45.078403041432622" lon="14.909544107586694">
+  <name>Klenovica - Ruševo Krmpotsko_9</name>
+</wpt>
+</gpx>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.143465356566779" minlon="18.161428485034634" maxlat="45.176291256538256" maxlon="18.243010847051185"/></metadata>                  
+<wpt lat="45.159101528948099" lon="18.169044936154361">
+  <name>Oprisavci - Zadubravlje_1</name>
+</wpt>
+<wpt lat="45.159111873895256" lon="18.16525486886388">
+  <name>Oprisavci - Zadubravlje_2</name>
+</wpt>
+<wpt lat="45.159185614345866" lon="18.161428485034634">
+  <name>Oprisavci - Zadubravlje_3</name>
+</wpt>
+<wpt lat="45.156816508619691" lon="18.1634455112072">
+  <name>Oprisavci - Zadubravlje_4</name>
+</wpt>
+<wpt lat="45.154141893617542" lon="18.164194364720423">
+  <name>Oprisavci - Zadubravlje_5</name>
+</wpt>
+<wpt lat="45.151465975886623" lon="18.165032137437962">
+  <name>Oprisavci - Zadubravlje_6</name>
+</wpt>
+<wpt lat="45.14883502784209" lon="18.165871145622123">
+  <name>Oprisavci - Zadubravlje_7</name>
+</wpt>
+<wpt lat="45.146150844682936" lon="18.166657662436606">
+  <name>Oprisavci - Zadubravlje_8</name>
+</wpt>
+<wpt lat="45.143465356566779" lon="18.167533082143795">
+  <name>Oprisavci - Zadubravlje_9</name>
+</wpt>
+<wpt lat="45.176291256538256" lon="18.243010847051185">
+  <name>Oprisavci - Staro Topolje_1</name>
+</wpt>
+<wpt lat="45.175863522813408" lon="18.239193589041765">
+  <name>Oprisavci - Staro Topolje_2</name>
+</wpt>
+<wpt lat="45.175561201372339" lon="18.235405644679076">
+  <name>Oprisavci - Staro Topolje_3</name>
+</wpt>
+<wpt lat="45.175186409220849" lon="18.231640989417645">
+  <name>Oprisavci - Staro Topolje_4</name>
+</wpt>
+<wpt lat="45.174470265147548" lon="18.227827889665605">
+  <name>Oprisavci - Staro Topolje_5</name>
+</wpt>
+<wpt lat="45.172263239293436" lon="18.225598344847644">
+  <name>Oprisavci - Staro Topolje_6</name>
+</wpt>
+<wpt lat="45.169687741500631" lon="18.226907219162502">
+  <name>Oprisavci - Staro Topolje_7</name>
+</wpt>
+<wpt lat="45.168083572470046" lon="18.224085475019535">
+  <name>Oprisavci - Staro Topolje_8</name>
+</wpt>
+<wpt lat="45.167157793356033" lon="18.220432010360177">
+  <name>Oprisavci - Staro Topolje_9</name>
+</wpt>
+</gpx>

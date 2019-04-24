@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="43.514587353071668" minlon="16.586415586034601" maxlat="43.595922503217530" maxlon="16.619048126253819"/></metadata>                  
+<wpt lat="43.514587353071668" lon="16.607434686235496">
+  <name>Dugopolje - Sitno G._1</name>
+</wpt>
+<wpt lat="43.516256370418219" lon="16.603392965143307">
+  <name>Dugopolje - Sitno G._2</name>
+</wpt>
+<wpt lat="43.517996240865017" lon="16.600513862469001">
+  <name>Dugopolje - Sitno G._3</name>
+</wpt>
+<wpt lat="43.519538352067215" lon="16.597226074482002">
+  <name>Dugopolje - Sitno G._4</name>
+</wpt>
+<wpt lat="43.519730490135068" lon="16.593503082766713">
+  <name>Dugopolje - Sitno G._5</name>
+</wpt>
+<wpt lat="43.520597507034076" lon="16.589929507456258">
+  <name>Dugopolje - Sitno G._6</name>
+</wpt>
+<wpt lat="43.519997111841683" lon="16.586415586034601">
+  <name>Dugopolje - Sitno G._7</name>
+</wpt>
+<wpt lat="43.51782410694841" lon="16.591088110109006">
+  <name>Dugopolje - Sitno G._8</name>
+</wpt>
+<wpt lat="43.516804068012057" lon="16.59461178932898">
+  <name>Dugopolje - Sitno G._9</name>
+</wpt>
+<wpt lat="43.59592250321753" lon="16.619048126253819">
+  <name>Dugopolje - Dugopolje_1</name>
+</wpt>
+<wpt lat="43.59327663606998" lon="16.618510363241079">
+  <name>Dugopolje - Dugopolje_2</name>
+</wpt>
+<wpt lat="43.593649560488693" lon="16.614721316321166">
+  <name>Dugopolje - Dugopolje_3</name>
+</wpt>
+<wpt lat="43.592590806305971" lon="16.61126397924502">
+  <name>Dugopolje - Dugopolje_4</name>
+</wpt>
+<wpt lat="43.590928406109441" lon="16.608276290849027">
+  <name>Dugopolje - Dugopolje_5</name>
+</wpt>
+<wpt lat="43.590283681384115" lon="16.604646562181102">
+  <name>Dugopolje - Dugopolje_6</name>
+</wpt>
+<wpt lat="43.590845034546369" lon="16.601018928146296">
+  <name>Dugopolje - Dugopolje_7</name>
+</wpt>
+<wpt lat="43.593213910603325" lon="16.599313786819483">
+  <name>Dugopolje - Dugopolje_8</name>
+</wpt>
+<wpt lat="43.595133603481486" lon="16.596530273241978">
+  <name>Dugopolje - Dugopolje_9</name>
+</wpt>
+</gpx>

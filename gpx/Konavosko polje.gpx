@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="42.529235400812219" minlon="18.320897686620011" maxlat="42.544810847989893" maxlon="18.363297708135899"/></metadata>                  
+<wpt lat="42.53578656242847" lon="18.330345811460798">
+  <name>Konavosko polje - Vignje_1</name>
+</wpt>
+<wpt lat="42.537568152260604" lon="18.327585766256661">
+  <name>Konavosko polje - Vignje_2</name>
+</wpt>
+<wpt lat="42.538373015642335" lon="18.323969303000172">
+  <name>Konavosko polje - Vignje_3</name>
+</wpt>
+<wpt lat="42.539916331425303" lon="18.320897686620011">
+  <name>Konavosko polje - Vignje_4</name>
+</wpt>
+<wpt lat="42.544005733985031" lon="18.323025405917889">
+  <name>Konavosko polje - Vignje_5</name>
+</wpt>
+<wpt lat="42.544046562047463" lon="18.326679040965697">
+  <name>Konavosko polje - Vignje_6</name>
+</wpt>
+<wpt lat="42.544810847989893" lon="18.330122496217268">
+  <name>Konavosko polje - Vignje_7</name>
+</wpt>
+<wpt lat="42.544123934711131" lon="18.333669652363152">
+  <name>Konavosko polje - Vignje_8</name>
+</wpt>
+<wpt lat="42.543168715215451" lon="18.337099289079774">
+  <name>Konavosko polje - Vignje_9</name>
+</wpt>
+<wpt lat="42.534526114717401" lon="18.363297708135899">
+  <name>Konavosko polje - D.Ljuta_1</name>
+</wpt>
+<wpt lat="42.5319999551009" lon="18.361968828073682">
+  <name>Konavosko polje - D.Ljuta_2</name>
+</wpt>
+<wpt lat="42.531230288809375" lon="18.356139767034851">
+  <name>Konavosko polje - D.Ljuta_3</name>
+</wpt>
+<wpt lat="42.532210302557289" lon="18.352882219698198">
+  <name>Konavosko polje - D.Ljuta_4</name>
+</wpt>
+<wpt lat="42.52999063624025" lon="18.350406520008463">
+  <name>Konavosko polje - D.Ljuta_5</name>
+</wpt>
+<wpt lat="42.529235400812219" lon="18.345880606985958">
+  <name>Konavosko polje - D.Ljuta_6</name>
+</wpt>
+<wpt lat="42.530631988808508" lon="18.34245266567773">
+  <name>Konavosko polje - D.Ljuta_7</name>
+</wpt>
+<wpt lat="42.53194612325786" lon="18.339107359422943">
+  <name>Konavosko polje - D.Ljuta_8</name>
+</wpt>
+<wpt lat="42.533268770939983" lon="18.335786508018298">
+  <name>Konavosko polje - D.Ljuta_9</name>
+</wpt>
+</gpx>

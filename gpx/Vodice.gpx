@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="43.767673898985180" minlon="15.702521343764337" maxlat="43.790987743890533" maxlon="15.808997791833571"/></metadata>                  
+<wpt lat="43.78014131709773" lon="15.725082774086372">
+  <name>Vodice - Sovlje_1</name>
+</wpt>
+<wpt lat="43.782035638723976" lon="15.7217235437576">
+  <name>Vodice - Sovlje_2</name>
+</wpt>
+<wpt lat="43.78284545910936" lon="15.71724095314706">
+  <name>Vodice - Sovlje_3</name>
+</wpt>
+<wpt lat="43.784386415971696" lon="15.714140648802069">
+  <name>Vodice - Sovlje_4</name>
+</wpt>
+<wpt lat="43.785169177408832" lon="15.710526596326808">
+  <name>Vodice - Sovlje_5</name>
+</wpt>
+<wpt lat="43.786188115597625" lon="15.707044008668388">
+  <name>Vodice - Sovlje_6</name>
+</wpt>
+<wpt lat="43.789012869233737" lon="15.708528118388186">
+  <name>Vodice - Sovlje_7</name>
+</wpt>
+<wpt lat="43.790987743890533" lon="15.705626789985821">
+  <name>Vodice - Sovlje_8</name>
+</wpt>
+<wpt lat="43.789543852220568" lon="15.702521343764337">
+  <name>Vodice - Sovlje_9</name>
+</wpt>
+<wpt lat="43.76767389898518" lon="15.798898763329296">
+  <name>Vodice- Vrbica_1</name>
+</wpt>
+<wpt lat="43.770346324362393" lon="15.799424887286161">
+  <name>Vodice- Vrbica_2</name>
+</wpt>
+<wpt lat="43.772822058733077" lon="15.802200946434438">
+  <name>Vodice- Vrbica_3</name>
+</wpt>
+<wpt lat="43.774070264314716" lon="15.805558516545217">
+  <name>Vodice- Vrbica_4</name>
+</wpt>
+<wpt lat="43.776527242062059" lon="15.807164888006653">
+  <name>Vodice- Vrbica_5</name>
+</wpt>
+<wpt lat="43.779432562168545" lon="15.808997791833571">
+  <name>Vodice- Vrbica_6</name>
+</wpt>
+<wpt lat="43.781805110833744" lon="15.807248549614691">
+  <name>Vodice- Vrbica_7</name>
+</wpt>
+<wpt lat="43.783737333252844" lon="15.803213149802851">
+  <name>Vodice- Vrbica_8</name>
+</wpt>
+<wpt lat="43.786333490558654" lon="15.800952160967341">
+  <name>Vodice- Vrbica_9</name>
+</wpt>
+</gpx>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="46.003511544845878" minlon="15.995485140038554" maxlat="46.036362062796258" maxlon="16.029997329303551"/></metadata>                  
+<wpt lat="46.009920708330021" lon="16.003019537199069">
+  <name>Bedekovčina - Lepa Ves_1</name>
+</wpt>
+<wpt lat="46.008802490842868" lon="16.006593455664088">
+  <name>Bedekovčina - Lepa Ves_2</name>
+</wpt>
+<wpt lat="46.007250740187544" lon="16.009809511201325">
+  <name>Bedekovčina - Lepa Ves_3</name>
+</wpt>
+<wpt lat="46.007780244945415" lon="16.013704395619406">
+  <name>Bedekovčina - Lepa Ves_4</name>
+</wpt>
+<wpt lat="46.00896462155518" lon="16.01716754115802">
+  <name>Bedekovčina - Lepa Ves_5</name>
+</wpt>
+<wpt lat="46.007376257858901" lon="16.020306152530907">
+  <name>Bedekovčina - Lepa Ves_6</name>
+</wpt>
+<wpt lat="46.007113479742145" lon="16.024169201704009">
+  <name>Bedekovčina - Lepa Ves_7</name>
+</wpt>
+<wpt lat="46.006282885926623" lon="16.027830449507476">
+  <name>Bedekovčina - Lepa Ves_8</name>
+</wpt>
+<wpt lat="46.003511544845878" lon="16.029997329303551">
+  <name>Bedekovčina - Lepa Ves_9</name>
+</wpt>
+<wpt lat="46.031895882645919" lon="15.995485140038554">
+  <name>Bedekovčina - r. Krapina_1</name>
+</wpt>
+<wpt lat="46.032928537166441" lon="15.9991057893658">
+  <name>Bedekovčina - r. Krapina_2</name>
+</wpt>
+<wpt lat="46.034982318953254" lon="16.00169682992447">
+  <name>Bedekovčina - r. Krapina_3</name>
+</wpt>
+<wpt lat="46.03527789717554" lon="16.005531074552177">
+  <name>Bedekovčina - r. Krapina_4</name>
+</wpt>
+<wpt lat="46.036175830363092" lon="16.009282514673984">
+  <name>Bedekovčina - r. Krapina_5</name>
+</wpt>
+<wpt lat="46.034253476027871" lon="16.012115789030769">
+  <name>Bedekovčina - r. Krapina_6</name>
+</wpt>
+<wpt lat="46.035141977227653" lon="16.015815673551241">
+  <name>Bedekovčina - r. Krapina_7</name>
+</wpt>
+<wpt lat="46.036362062796258" lon="16.019228582172786">
+  <name>Bedekovčina - r. Krapina_8</name>
+</wpt>
+<wpt lat="46.034764874597386" lon="16.022420442615985">
+  <name>Bedekovčina - r. Krapina_9</name>
+</wpt>
+</gpx>

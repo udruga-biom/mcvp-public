@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="44.760592661071229" minlon="15.566431629889204" maxlat="44.802372873115118" maxlon="15.629186733793496"/></metadata>                  
+<wpt lat="44.797360032528822" lon="15.566431629889204">
+  <name>Plitvice - Brezovac_1</name>
+</wpt>
+<wpt lat="44.794544965803162" lon="15.566947823619186">
+  <name>Plitvice - Brezovac_2</name>
+</wpt>
+<wpt lat="44.792103273409516" lon="15.568399642665538">
+  <name>Plitvice - Brezovac_3</name>
+</wpt>
+<wpt lat="44.790561223911325" lon="15.571784293818531">
+  <name>Plitvice - Brezovac_4</name>
+</wpt>
+<wpt lat="44.793042403001948" lon="15.575190196000387">
+  <name>Plitvice - Brezovac_5</name>
+</wpt>
+<wpt lat="44.79499673857849" lon="15.577771351691686">
+  <name>Plitvice - Brezovac_6</name>
+</wpt>
+<wpt lat="44.797813116792383" lon="15.575653071837124">
+  <name>Plitvice - Brezovac_7</name>
+</wpt>
+<wpt lat="44.799880430119053" lon="15.578061506685632">
+  <name>Plitvice - Brezovac_8</name>
+</wpt>
+<wpt lat="44.802372873115118" lon="15.580061890415307">
+  <name>Plitvice - Brezovac_9</name>
+</wpt>
+<wpt lat="44.760592661071229" lon="15.599434314267526">
+  <name>Plitvice - Homoljac_1</name>
+</wpt>
+<wpt lat="44.761441110489329" lon="15.603169734850558">
+  <name>Plitvice - Homoljac_2</name>
+</wpt>
+<wpt lat="44.762223442134918" lon="15.606740426064633">
+  <name>Plitvice - Homoljac_3</name>
+</wpt>
+<wpt lat="44.762958165831691" lon="15.610302343897192">
+  <name>Plitvice - Homoljac_4</name>
+</wpt>
+<wpt lat="44.764070458393057" lon="15.613836851899467">
+  <name>Plitvice - Homoljac_5</name>
+</wpt>
+<wpt lat="44.764443730527532" lon="15.617878066344803">
+  <name>Plitvice - Homoljac_6</name>
+</wpt>
+<wpt lat="44.765077784448316" lon="15.621677005691584">
+  <name>Plitvice - Homoljac_7</name>
+</wpt>
+<wpt lat="44.764079855684535" lon="15.625551560238453">
+  <name>Plitvice - Homoljac_8</name>
+</wpt>
+<wpt lat="44.765166794876713" lon="15.629186733793496">
+  <name>Plitvice - Homoljac_9</name>
+</wpt>
+</gpx>

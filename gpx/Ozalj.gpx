@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.621815930209884" minlon="15.410240550541598" maxlat="45.645674368505425" maxlon="15.438855678037088"/></metadata>                  
+<wpt lat="45.631759716735623" lon="15.410240550541598">
+  <name>Ozalj - V.Vrh Kamanjski_1</name>
+</wpt>
+<wpt lat="45.630706910260876" lon="15.414018862993501">
+  <name>Ozalj - V.Vrh Kamanjski_2</name>
+</wpt>
+<wpt lat="45.628078336308867" lon="15.414851955551779">
+  <name>Ozalj - V.Vrh Kamanjski_3</name>
+</wpt>
+<wpt lat="45.62834872759742" lon="15.418694262326042">
+  <name>Ozalj - V.Vrh Kamanjski_4</name>
+</wpt>
+<wpt lat="45.626022552173161" lon="15.421060235371565">
+  <name>Ozalj - V.Vrh Kamanjski_5</name>
+</wpt>
+<wpt lat="45.623460527375684" lon="15.422276368492481">
+  <name>Ozalj - V.Vrh Kamanjski_6</name>
+</wpt>
+<wpt lat="45.624582576028075" lon="15.425807176019601">
+  <name>Ozalj - V.Vrh Kamanjski_7</name>
+</wpt>
+<wpt lat="45.62409136422032" lon="15.43003569081748">
+  <name>Ozalj - V.Vrh Kamanjski_8</name>
+</wpt>
+<wpt lat="45.621815930209884" lon="15.432079459137704">
+  <name>Ozalj - V.Vrh Kamanjski_9</name>
+</wpt>
+<wpt lat="45.645674368505425" lon="15.415320459214058">
+  <name>Ozalj - Bratovanci_1</name>
+</wpt>
+<wpt lat="45.643396409596193" lon="15.418969237932313">
+  <name>Ozalj - Bratovanci_2</name>
+</wpt>
+<wpt lat="45.64053170971485" lon="15.419575934528757">
+  <name>Ozalj - Bratovanci_3</name>
+</wpt>
+<wpt lat="45.638835124133507" lon="15.422866724118533">
+  <name>Ozalj - Bratovanci_4</name>
+</wpt>
+<wpt lat="45.63602727908119" lon="15.423779923718351">
+  <name>Ozalj - Bratovanci_5</name>
+</wpt>
+<wpt lat="45.635207577316827" lon="15.427515343773939">
+  <name>Ozalj - Bratovanci_6</name>
+</wpt>
+<wpt lat="45.636212152810089" lon="15.431010742489637">
+  <name>Ozalj - Bratovanci_7</name>
+</wpt>
+<wpt lat="45.636629061136709" lon="15.435184406944881">
+  <name>Ozalj - Bratovanci_8</name>
+</wpt>
+<wpt lat="45.63784199521254" lon="15.438855678037088">
+  <name>Ozalj - Bratovanci_9</name>
+</wpt>
+</gpx>

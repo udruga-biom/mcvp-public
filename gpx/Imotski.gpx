@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="43.400142095177117" minlon="17.230810621292274" maxlat="43.432128807438957" maxlon="17.252403659929787"/></metadata>                  
+<wpt lat="43.41613039511217" lon="17.252403659929787">
+  <name>Imotski-Vinjani_1</name>
+</wpt>
+<wpt lat="43.418724816490148" lon="17.251356225306825">
+  <name>Imotski-Vinjani_2</name>
+</wpt>
+<wpt lat="43.421189762487558" lon="17.249556987320013">
+  <name>Imotski-Vinjani_3</name>
+</wpt>
+<wpt lat="43.421743561935692" lon="17.24528512822387">
+  <name>Imotski-Vinjani_4</name>
+</wpt>
+<wpt lat="43.423779205070126" lon="17.242835870847646">
+  <name>Imotski-Vinjani_5</name>
+</wpt>
+<wpt lat="43.42581592316008" lon="17.240393132580223">
+  <name>Imotski-Vinjani_6</name>
+</wpt>
+<wpt lat="43.427836321788732" lon="17.2379184145687">
+  <name>Imotski-Vinjani_7</name>
+</wpt>
+<wpt lat="43.430456360935281" lon="17.237009060857439">
+  <name>Imotski-Vinjani_8</name>
+</wpt>
+<wpt lat="43.432128807438957" lon="17.234122100048634">
+  <name>Imotski-Vinjani_9</name>
+</wpt>
+<wpt lat="43.400142095177117" lon="17.234181188994611">
+  <name>Imotski-Zmijavac_1</name>
+</wpt>
+<wpt lat="43.401268645118527" lon="17.230810621292274">
+  <name>Imotski-Zmijavac_2</name>
+</wpt>
+<wpt lat="43.403489972497525" lon="17.232938372064705">
+  <name>Imotski-Zmijavac_3</name>
+</wpt>
+<wpt lat="43.405960299701825" lon="17.234567527128029">
+  <name>Imotski-Zmijavac_4</name>
+</wpt>
+<wpt lat="43.408642708807911" lon="17.23522717552034">
+  <name>Imotski-Zmijavac_5</name>
+</wpt>
+<wpt lat="43.411267722608535" lon="17.234129864100392">
+  <name>Imotski-Zmijavac_6</name>
+</wpt>
+<wpt lat="43.414026179913144" lon="17.233614309801599">
+  <name>Imotski-Zmijavac_7</name>
+</wpt>
+<wpt lat="43.416726742828253" lon="17.233030093950081">
+  <name>Imotski-Zmijavac_8</name>
+</wpt>
+<wpt lat="43.419384692782039" lon="17.232338245977921">
+  <name>Imotski-Zmijavac_9</name>
+</wpt>
+</gpx>

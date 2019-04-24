@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="46.056484526413314" minlon="16.459143589051269" maxlat="46.117158505694341" maxlon="16.486260975951943"/></metadata>                  
+<wpt lat="46.117158505694341" lon="16.471389374109222">
+  <name>Sv. Helena - Kalnik_1</name>
+</wpt>
+<wpt lat="46.114408818211501" lon="16.470783131111723">
+  <name>Sv. Helena - Kalnik_2</name>
+</wpt>
+<wpt lat="46.11164954427268" lon="16.470006448137461">
+  <name>Sv. Helena - Kalnik_3</name>
+</wpt>
+<wpt lat="46.109901309512878" lon="16.466972677742934">
+  <name>Sv. Helena - Kalnik_4</name>
+</wpt>
+<wpt lat="46.110968459247502" lon="16.463301045244798">
+  <name>Sv. Helena - Kalnik_5</name>
+</wpt>
+<wpt lat="46.109282722471718" lon="16.459143589051269">
+  <name>Sv. Helena - Kalnik_6</name>
+</wpt>
+<wpt lat="46.112005387438266" lon="16.45973744437104">
+  <name>Sv. Helena - Kalnik_7</name>
+</wpt>
+<wpt lat="46.114148607206019" lon="16.462449991401293">
+  <name>Sv. Helena - Kalnik_8</name>
+</wpt>
+<wpt lat="46.116926264380304" lon="16.462331016679464">
+  <name>Sv. Helena - Kalnik_9</name>
+</wpt>
+<wpt lat="46.056484526413314" lon="16.479254607445466">
+  <name>Sv. Helena - Guščerovec_1</name>
+</wpt>
+<wpt lat="46.058886947129018" lon="16.483584785940824">
+  <name>Sv. Helena - Guščerovec_2</name>
+</wpt>
+<wpt lat="46.061465471573818" lon="16.482420776354108">
+  <name>Sv. Helena - Guščerovec_3</name>
+</wpt>
+<wpt lat="46.063941645067203" lon="16.483979196789232">
+  <name>Sv. Helena - Guščerovec_4</name>
+</wpt>
+<wpt lat="46.066551428710383" lon="16.484987326771819">
+  <name>Sv. Helena - Guščerovec_5</name>
+</wpt>
+<wpt lat="46.069198794875128" lon="16.485856708897291">
+  <name>Sv. Helena - Guščerovec_6</name>
+</wpt>
+<wpt lat="46.072133569327633" lon="16.486260975951943">
+  <name>Sv. Helena - Guščerovec_7</name>
+</wpt>
+<wpt lat="46.074084418115028" lon="16.483569162694788">
+  <name>Sv. Helena - Guščerovec_8</name>
+</wpt>
+<wpt lat="46.076517380727061" lon="16.481988841006835">
+  <name>Sv. Helena - Guščerovec_9</name>
+</wpt>
+</gpx>

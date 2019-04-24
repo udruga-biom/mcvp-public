@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.319859673470717" minlon="15.702233551958557" maxlat="45.341934745470546" maxlon="15.723091346549577"/></metadata>                  
+<wpt lat="45.319859673470717" lon="15.702898435620392">
+  <name>Vojnić - Gornji Vojnić_1</name>
+</wpt>
+<wpt lat="45.320990391194137" lon="15.706326569937302">
+  <name>Vojnić - Gornji Vojnić_2</name>
+</wpt>
+<wpt lat="45.322200242875837" lon="15.709592634490598">
+  <name>Vojnić - Gornji Vojnić_3</name>
+</wpt>
+<wpt lat="45.324109512313804" lon="15.712329462997534">
+  <name>Vojnić - Gornji Vojnić_4</name>
+</wpt>
+<wpt lat="45.324047273200378" lon="15.716179637996316">
+  <name>Vojnić - Gornji Vojnić_5</name>
+</wpt>
+<wpt lat="45.326153288157151" lon="15.719036663550325">
+  <name>Vojnić - Gornji Vojnić_6</name>
+</wpt>
+<wpt lat="45.325362058184893" lon="15.723091346549577">
+  <name>Vojnić - Gornji Vojnić_7</name>
+</wpt>
+<wpt lat="45.322975360419811" lon="15.721140800414297">
+  <name>Vojnić - Gornji Vojnić_8</name>
+</wpt>
+<wpt lat="45.320050597534781" lon="15.722395818367923">
+  <name>Vojnić - Gornji Vojnić_9</name>
+</wpt>
+<wpt lat="45.331909692292214" lon="15.705341095550565">
+  <name>Vojnić - Donji Vojnić_1</name>
+</wpt>
+<wpt lat="45.334223733028381" lon="15.702233551958557">
+  <name>Vojnić - Donji Vojnić_2</name>
+</wpt>
+<wpt lat="45.334733529684641" lon="15.706201337027871">
+  <name>Vojnić - Donji Vojnić_3</name>
+</wpt>
+<wpt lat="45.336556675140066" lon="15.709030055007428">
+  <name>Vojnić - Donji Vojnić_4</name>
+</wpt>
+<wpt lat="45.336407732855967" lon="15.713170886805559">
+  <name>Vojnić - Donji Vojnić_5</name>
+</wpt>
+<wpt lat="45.334819242943937" lon="15.716319514369616">
+  <name>Vojnić - Donji Vojnić_6</name>
+</wpt>
+<wpt lat="45.337315112261862" lon="15.717814401071781">
+  <name>Vojnić - Donji Vojnić_7</name>
+</wpt>
+<wpt lat="45.339831872477781" lon="15.716384085548468">
+  <name>Vojnić - Donji Vojnić_8</name>
+</wpt>
+<wpt lat="45.341934745470546" lon="15.718770074807404">
+  <name>Vojnić - Donji Vojnić_9</name>
+</wpt>
+</gpx>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="43.922668013784097" minlon="15.746278472123171" maxlat="43.961552321428101" maxlon="15.785236914400736"/></metadata>                  
+<wpt lat="43.961552321428101" lon="15.750951434531112">
+  <name>Lišane Ostrovičke - Podmišljen_1</name>
+</wpt>
+<wpt lat="43.959305251106471" lon="15.748824737817746">
+  <name>Lišane Ostrovičke - Podmišljen_2</name>
+</wpt>
+<wpt lat="43.95669294440097" lon="15.747184892522439">
+  <name>Lišane Ostrovičke - Podmišljen_3</name>
+</wpt>
+<wpt lat="43.954067361675271" lon="15.746278472123171">
+  <name>Lišane Ostrovičke - Podmišljen_4</name>
+</wpt>
+<wpt lat="43.951376084938133" lon="15.747039712917225">
+  <name>Lišane Ostrovičke - Podmišljen_5</name>
+</wpt>
+<wpt lat="43.948674988473485" lon="15.747144577452167">
+  <name>Lišane Ostrovičke - Podmišljen_6</name>
+</wpt>
+<wpt lat="43.946089766132253" lon="15.748266393304043">
+  <name>Lišane Ostrovičke - Podmišljen_7</name>
+</wpt>
+<wpt lat="43.943543318162185" lon="15.749551560078617">
+  <name>Lišane Ostrovičke - Podmišljen_8</name>
+</wpt>
+<wpt lat="43.940814975882375" lon="15.750004176678495">
+  <name>Lišane Ostrovičke - Podmišljen_9</name>
+</wpt>
+<wpt lat="43.94251235355997" lon="15.785236914400736">
+  <name>Lišane Ostrovičke - Bačkulići_1</name>
+</wpt>
+<wpt lat="43.93981492640939" lon="15.784884450495326">
+  <name>Lišane Ostrovičke - Bačkulići_2</name>
+</wpt>
+<wpt lat="43.937220579886365" lon="15.783688011391993">
+  <name>Lišane Ostrovičke - Bačkulići_3</name>
+</wpt>
+<wpt lat="43.934679008183757" lon="15.782383799156671">
+  <name>Lišane Ostrovičke - Bačkulići_4</name>
+</wpt>
+<wpt lat="43.932051679565689" lon="15.781443290940709">
+  <name>Lišane Ostrovičke - Bačkulići_5</name>
+</wpt>
+<wpt lat="43.929060382437498" lon="15.781037678018647">
+  <name>Lišane Ostrovičke - Bačkulići_6</name>
+</wpt>
+<wpt lat="43.926396813948891" lon="15.780419056613495">
+  <name>Lišane Ostrovičke - Bačkulići_7</name>
+</wpt>
+<wpt lat="43.924799707751973" lon="15.777383128190186">
+  <name>Lišane Ostrovičke - Bačkulići_8</name>
+</wpt>
+<wpt lat="43.922668013784097" lon="15.775079366551067">
+  <name>Lišane Ostrovičke - Bačkulići_9</name>
+</wpt>
+</gpx>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="44.683318016269070" minlon="15.709311785346538" maxlat="44.722741766557832" maxlon="15.776061570705858"/></metadata>                  
+<wpt lat="44.716046619361329" lon="15.709311785346538">
+  <name>Bjelopolje - Jasikovac_1</name>
+</wpt>
+<wpt lat="44.718570167717104" lon="15.710957461994031">
+  <name>Bjelopolje - Jasikovac_2</name>
+</wpt>
+<wpt lat="44.720936283405123" lon="15.712981200819282">
+  <name>Bjelopolje - Jasikovac_3</name>
+</wpt>
+<wpt lat="44.722741766557832" lon="15.715829162834078">
+  <name>Bjelopolje - Jasikovac_4</name>
+</wpt>
+<wpt lat="44.720422980279608" lon="15.717833435813665">
+  <name>Bjelopolje - Jasikovac_5</name>
+</wpt>
+<wpt lat="44.716217879019005" lon="15.721150457101107">
+  <name>Bjelopolje - Jasikovac_6</name>
+</wpt>
+<wpt lat="44.713666879990363" lon="15.723906978525488">
+  <name>Bjelopolje - Jasikovac_7</name>
+</wpt>
+<wpt lat="44.711623067142284" lon="15.726375938598135">
+  <name>Bjelopolje - Jasikovac_8</name>
+</wpt>
+<wpt lat="44.711032514008835" lon="15.730252458606863">
+  <name>Bjelopolje - Jasikovac_9</name>
+</wpt>
+<wpt lat="44.692351575521663" lon="15.75116352908325">
+  <name>Bjelopolje - Bjelopolje_1</name>
+</wpt>
+<wpt lat="44.690641241189098" lon="15.754101842131204">
+  <name>Bjelopolje - Bjelopolje_2</name>
+</wpt>
+<wpt lat="44.688983731477158" lon="15.75709279810588">
+  <name>Bjelopolje - Bjelopolje_3</name>
+</wpt>
+<wpt lat="44.687427326867521" lon="15.760226871235103">
+  <name>Bjelopolje - Bjelopolje_4</name>
+</wpt>
+<wpt lat="44.685892853398052" lon="15.763411842427876">
+  <name>Bjelopolje - Bjelopolje_5</name>
+</wpt>
+<wpt lat="44.684372084660495" lon="15.766754790332181">
+  <name>Bjelopolje - Bjelopolje_6</name>
+</wpt>
+<wpt lat="44.68331801626907" lon="15.770334536911145">
+  <name>Bjelopolje - Bjelopolje_7</name>
+</wpt>
+<wpt lat="44.685187072192058" lon="15.773099785925503">
+  <name>Bjelopolje - Bjelopolje_8</name>
+</wpt>
+<wpt lat="44.686970279372815" lon="15.776061570705858">
+  <name>Bjelopolje - Bjelopolje_9</name>
+</wpt>
+</gpx>

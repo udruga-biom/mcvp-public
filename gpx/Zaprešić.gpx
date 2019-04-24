@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.880070824243205" minlon="15.829078885086249" maxlat="45.898869434307478" maxlon="15.863743272286717"/></metadata>                  
+<wpt lat="45.880070824243205" lon="15.846788814846242">
+  <name>Zaprešić - Jablanovec_1</name>
+</wpt>
+<wpt lat="45.882734892721047" lon="15.846912194954013">
+  <name>Zaprešić - Jablanovec_2</name>
+</wpt>
+<wpt lat="45.885419750836967" lon="15.847524937130542">
+  <name>Zaprešić - Jablanovec_3</name>
+</wpt>
+<wpt lat="45.887963293886607" lon="15.848603238239766">
+  <name>Zaprešić - Jablanovec_4</name>
+</wpt>
+<wpt lat="45.888896378854575" lon="15.844984561611417">
+  <name>Zaprešić - Jablanovec_5</name>
+</wpt>
+<wpt lat="45.889594529351584" lon="15.841213919812184">
+  <name>Zaprešić - Jablanovec_6</name>
+</wpt>
+<wpt lat="45.89001311817038" lon="15.837356311418375">
+  <name>Zaprešić - Jablanovec_7</name>
+</wpt>
+<wpt lat="45.890206270439407" lon="15.833436915495515">
+  <name>Zaprešić - Jablanovec_8</name>
+</wpt>
+<wpt lat="45.890441702868785" lon="15.829078885086249">
+  <name>Zaprešić - Jablanovec_9</name>
+</wpt>
+<wpt lat="45.898869434307478" lon="15.835423562548678">
+  <name>Zaprešić - Bukevje Bistransko_1</name>
+</wpt>
+<wpt lat="45.897962368857804" lon="15.839116840720058">
+  <name>Zaprešić - Bukevje Bistransko_2</name>
+</wpt>
+<wpt lat="45.897454403795599" lon="15.842682607100388">
+  <name>Zaprešić - Bukevje Bistransko_3</name>
+</wpt>
+<wpt lat="45.897000262378988" lon="15.846506700649543">
+  <name>Zaprešić - Bukevje Bistransko_4</name>
+</wpt>
+<wpt lat="45.897310023286202" lon="15.850730980077207">
+  <name>Zaprešić - Bukevje Bistransko_5</name>
+</wpt>
+<wpt lat="45.897265449195785" lon="15.854632212763075">
+  <name>Zaprešić - Bukevje Bistransko_6</name>
+</wpt>
+<wpt lat="45.89527149231354" lon="15.85905355616431">
+  <name>Zaprešić - Bukevje Bistransko_7</name>
+</wpt>
+<wpt lat="45.893114045694823" lon="15.86150594358595">
+  <name>Zaprešić - Bukevje Bistransko_8</name>
+</wpt>
+<wpt lat="45.895431048785873" lon="15.863743272286717">
+  <name>Zaprešić - Bukevje Bistransko_9</name>
+</wpt>
+</gpx>

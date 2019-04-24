@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.607974470224129" minlon="15.538775440733092" maxlat="45.647103847170705" maxlon="15.612674328612435"/></metadata>                  
+<wpt lat="45.636058599253019" lon="15.54683999035621">
+  <name>Draganići -Brlenić_1</name>
+</wpt>
+<wpt lat="45.635874710519168" lon="15.550691144907267">
+  <name>Draganići -Brlenić_2</name>
+</wpt>
+<wpt lat="45.63618552635176" lon="15.554533954229306">
+  <name>Draganići -Brlenić_3</name>
+</wpt>
+<wpt lat="45.638297723892485" lon="15.552074061300376">
+  <name>Draganići -Brlenić_4</name>
+</wpt>
+<wpt lat="45.639843833184081" lon="15.548635821036438">
+  <name>Draganići -Brlenić_5</name>
+</wpt>
+<wpt lat="45.640405200851362" lon="15.544739489126224">
+  <name>Draganići -Brlenić_6</name>
+</wpt>
+<wpt lat="45.641886708005586" lon="15.541135252844265">
+  <name>Draganići -Brlenić_7</name>
+</wpt>
+<wpt lat="45.644347937242387" lon="15.539553814707295">
+  <name>Draganići -Brlenić_8</name>
+</wpt>
+<wpt lat="45.647103847170705" lon="15.538775440733092">
+  <name>Draganići -Brlenić_9</name>
+</wpt>
+<wpt lat="45.607974470224129" lon="15.612674328612435">
+  <name>Draganići - Franjetići_1</name>
+</wpt>
+<wpt lat="45.610436734840164" lon="15.61109698254509">
+  <name>Draganići - Franjetići_2</name>
+</wpt>
+<wpt lat="45.612992544058919" lon="15.609979592578421">
+  <name>Draganići - Franjetići_3</name>
+</wpt>
+<wpt lat="45.615678692672553" lon="15.610578206575662">
+  <name>Draganići - Franjetići_4</name>
+</wpt>
+<wpt lat="45.618336648613905" lon="15.611023447828764">
+  <name>Draganići - Franjetići_5</name>
+</wpt>
+<wpt lat="45.620386910726879" lon="15.608541804091823">
+  <name>Draganići - Franjetići_6</name>
+</wpt>
+<wpt lat="45.620923949852738" lon="15.60472475047737">
+  <name>Draganići - Franjetići_7</name>
+</wpt>
+<wpt lat="45.619047187498659" lon="15.601779697276791">
+  <name>Draganići - Franjetići_8</name>
+</wpt>
+<wpt lat="45.618936005175996" lon="15.597947419072927">
+  <name>Draganići - Franjetići_9</name>
+</wpt>
+</gpx>

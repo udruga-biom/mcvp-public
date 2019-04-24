@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="43.772277270976829" minlon="16.011096210530265" maxlat="43.813228673140877" maxlon="16.065655730202401"/></metadata>                  
+<wpt lat="43.807795469613858" lon="16.037887823245619">
+  <name>Pokrovnik - Goriš_1</name>
+</wpt>
+<wpt lat="43.807133084175405" lon="16.034363121331598">
+  <name>Pokrovnik - Goriš_2</name>
+</wpt>
+<wpt lat="43.806272470389331" lon="16.030815191387951">
+  <name>Pokrovnik - Goriš_3</name>
+</wpt>
+<wpt lat="43.80630282683736" lon="16.027260336791322">
+  <name>Pokrovnik - Goriš_4</name>
+</wpt>
+<wpt lat="43.807305211150606" lon="16.023710183829568">
+  <name>Pokrovnik - Goriš_5</name>
+</wpt>
+<wpt lat="43.807974141906925" lon="16.020088007052824">
+  <name>Pokrovnik - Goriš_6</name>
+</wpt>
+<wpt lat="43.809463868929697" lon="16.0168941561857">
+  <name>Pokrovnik - Goriš_7</name>
+</wpt>
+<wpt lat="43.811360655232349" lon="16.014194034463326">
+  <name>Pokrovnik - Goriš_8</name>
+</wpt>
+<wpt lat="43.813228673140877" lon="16.011096210530265">
+  <name>Pokrovnik - Goriš_9</name>
+</wpt>
+<wpt lat="43.772277270976829" lon="16.046943533840277">
+  <name>Pokrovnik - Konjevrate_1</name>
+</wpt>
+<wpt lat="43.774204819382376" lon="16.049550041101227">
+  <name>Pokrovnik - Konjevrate_2</name>
+</wpt>
+<wpt lat="43.775639448567674" lon="16.052719401169657">
+  <name>Pokrovnik - Konjevrate_3</name>
+</wpt>
+<wpt lat="43.777996247842232" lon="16.054639800367699">
+  <name>Pokrovnik - Konjevrate_4</name>
+</wpt>
+<wpt lat="43.780585110665726" lon="16.053750945295267">
+  <name>Pokrovnik - Konjevrate_5</name>
+</wpt>
+<wpt lat="43.783021788103014" lon="16.055385200241179">
+  <name>Pokrovnik - Konjevrate_6</name>
+</wpt>
+<wpt lat="43.784106276787149" lon="16.058831071549907">
+  <name>Pokrovnik - Konjevrate_7</name>
+</wpt>
+<wpt lat="43.783030496654341" lon="16.062305253742863">
+  <name>Pokrovnik - Konjevrate_8</name>
+</wpt>
+<wpt lat="43.781864129190616" lon="16.065655730202401">
+  <name>Pokrovnik - Konjevrate_9</name>
+</wpt>
+</gpx>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="46.025416658614553" minlon="17.014756569720817" maxlat="46.055773651188446" maxlon="17.049763476815777"/></metadata>                  
+<wpt lat="46.055773651188446" lon="17.017938415460968">
+  <name>Đurđevac - Virje_1</name>
+</wpt>
+<wpt lat="46.053066136812546" lon="17.016937029678033">
+  <name>Đurđevac - Virje_2</name>
+</wpt>
+<wpt lat="46.05038838968597" lon="17.016355093007959">
+  <name>Đurđevac - Virje_3</name>
+</wpt>
+<wpt lat="46.047702156955324" lon="17.015499193487475">
+  <name>Đurđevac - Virje_4</name>
+</wpt>
+<wpt lat="46.045044018788438" lon="17.014756569720817">
+  <name>Đurđevac - Virje_5</name>
+</wpt>
+<wpt lat="46.042577136041295" lon="17.016355447424964">
+  <name>Đurđevac - Virje_6</name>
+</wpt>
+<wpt lat="46.039921748734933" lon="17.015681871499002">
+  <name>Đurđevac - Virje_7</name>
+</wpt>
+<wpt lat="46.037207471696391" lon="17.015336610588431">
+  <name>Đurđevac - Virje_8</name>
+</wpt>
+<wpt lat="46.034518020451067" lon="17.01499251956653">
+  <name>Đurđevac - Virje_9</name>
+</wpt>
+<wpt lat="46.025416658614553" lon="17.049763476815777">
+  <name>Đurđevac - Đurđevac_1</name>
+</wpt>
+<wpt lat="46.027663475415764" lon="17.047284227380352">
+  <name>Đurđevac - Đurđevac_2</name>
+</wpt>
+<wpt lat="46.029545442882956" lon="17.044282812864829">
+  <name>Đurđevac - Đurđevac_3</name>
+</wpt>
+<wpt lat="46.031292189604784" lon="17.041242800732718">
+  <name>Đurđevac - Đurđevac_4</name>
+</wpt>
+<wpt lat="46.031081449770632" lon="17.037317969524636">
+  <name>Đurđevac - Đurđevac_5</name>
+</wpt>
+<wpt lat="46.031322703682072" lon="17.03337413485491">
+  <name>Đurđevac - Đurđevac_6</name>
+</wpt>
+<wpt lat="46.030392087748616" lon="17.029696807855501">
+  <name>Đurđevac - Đurđevac_7</name>
+</wpt>
+<wpt lat="46.028662276132714" lon="17.026664089667051">
+  <name>Đurđevac - Đurđevac_8</name>
+</wpt>
+<wpt lat="46.027693473159417" lon="17.022691924021217">
+  <name>Đurđevac - Đurđevac_9</name>
+</wpt>
+</gpx>

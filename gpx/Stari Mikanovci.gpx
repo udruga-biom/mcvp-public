@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.290920620239817" minlon="18.582655368608364" maxlat="45.320935981016810" maxlon="18.608296800068128"/></metadata>                  
+<wpt lat="45.290920620239817" lon="18.598868168065092">
+  <name>Stari Mikanovci - Novi Mikanovci_1</name>
+</wpt>
+<wpt lat="45.293349030225038" lon="18.600776863625942">
+  <name>Stari Mikanovci - Novi Mikanovci_2</name>
+</wpt>
+<wpt lat="45.295808950695559" lon="18.602692756159843">
+  <name>Stari Mikanovci - Novi Mikanovci_3</name>
+</wpt>
+<wpt lat="45.297460034558291" lon="18.605628106896159">
+  <name>Stari Mikanovci - Novi Mikanovci_4</name>
+</wpt>
+<wpt lat="45.299562758055224" lon="18.608296800068128">
+  <name>Stari Mikanovci - Novi Mikanovci_5</name>
+</wpt>
+<wpt lat="45.30227761034827" lon="18.608262555477598">
+  <name>Stari Mikanovci - Novi Mikanovci_6</name>
+</wpt>
+<wpt lat="45.305063952989542" lon="18.608230963428795">
+  <name>Stari Mikanovci - Novi Mikanovci_7</name>
+</wpt>
+<wpt lat="45.306034512571927" lon="18.604531826105294">
+  <name>Stari Mikanovci - Novi Mikanovci_8</name>
+</wpt>
+<wpt lat="45.306182619532713" lon="18.600432864331644">
+  <name>Stari Mikanovci - Novi Mikanovci_9</name>
+</wpt>
+<wpt lat="45.32093598101681" lon="18.593390893082777">
+  <name>Stari Mikanovci - Mrzović_1</name>
+</wpt>
+<wpt lat="45.318235780062615" lon="18.594182354318164">
+  <name>Stari Mikanovci - Mrzović_2</name>
+</wpt>
+<wpt lat="45.315378401386134" lon="18.594422448218904">
+  <name>Stari Mikanovci - Mrzović_3</name>
+</wpt>
+<wpt lat="45.312644738981163" lon="18.594418130030654">
+  <name>Stari Mikanovci - Mrzović_4</name>
+</wpt>
+<wpt lat="45.309839850533692" lon="18.594283789341013">
+  <name>Stari Mikanovci - Mrzović_5</name>
+</wpt>
+<wpt lat="45.307116303109581" lon="18.594189062970717">
+  <name>Stari Mikanovci - Mrzović_6</name>
+</wpt>
+<wpt lat="45.306540433848092" lon="18.59027749106416">
+  <name>Stari Mikanovci - Mrzović_7</name>
+</wpt>
+<wpt lat="45.306632762455656" lon="18.586528884558394">
+  <name>Stari Mikanovci - Mrzović_8</name>
+</wpt>
+<wpt lat="45.306629699602027" lon="18.582655368608364">
+  <name>Stari Mikanovci - Mrzović_9</name>
+</wpt>
+</gpx>

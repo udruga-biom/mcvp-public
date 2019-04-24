@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="42.749989297693446" minlon="16.835296775446963" maxlat="42.758520519539388" maxlon="16.922395184124042"/></metadata>                  
+<wpt lat="42.752886903904532" lon="16.835296775446963">
+  <name>Lastovo - Ubli_1</name>
+</wpt>
+<wpt lat="42.754839951813175" lon="16.838544683464317">
+  <name>Lastovo - Ubli_2</name>
+</wpt>
+<wpt lat="42.755711133290895" lon="16.842275518116182">
+  <name>Lastovo - Ubli_3</name>
+</wpt>
+<wpt lat="42.75471042458819" lon="16.845739497014968">
+  <name>Lastovo - Ubli_4</name>
+</wpt>
+<wpt lat="42.757800530230519" lon="16.845023649343492">
+  <name>Lastovo - Ubli_5</name>
+</wpt>
+<wpt lat="42.757243218668968" lon="16.85359688931791">
+  <name>Lastovo - Ubli_6</name>
+</wpt>
+<wpt lat="42.758006029454251" lon="16.857278587488082">
+  <name>Lastovo - Ubli_7</name>
+</wpt>
+<wpt lat="42.755883461616015" lon="16.85948983859187">
+  <name>Lastovo - Ubli_8</name>
+</wpt>
+<wpt lat="42.75403780742986" lon="16.862374449684268">
+  <name>Lastovo - Ubli_9</name>
+</wpt>
+<wpt lat="42.751480774913951" lon="16.900302019007032">
+  <name>Lastovo - Lastovo_1</name>
+</wpt>
+<wpt lat="42.753452170450451" lon="16.902928983076645">
+  <name>Lastovo - Lastovo_2</name>
+</wpt>
+<wpt lat="42.754289290274066" lon="16.908053082055396">
+  <name>Lastovo - Lastovo_3</name>
+</wpt>
+<wpt lat="42.756847118942993" lon="16.912785592285115">
+  <name>Lastovo - Lastovo_4</name>
+</wpt>
+<wpt lat="42.758520519539388" lon="16.915582230519437">
+  <name>Lastovo - Lastovo_5</name>
+</wpt>
+<wpt lat="42.755535789341842" lon="16.919373881948879">
+  <name>Lastovo - Lastovo_6</name>
+</wpt>
+<wpt lat="42.757892410113179" lon="16.922395184124042">
+  <name>Lastovo - Lastovo_7</name>
+</wpt>
+<wpt lat="42.752666126089025" lon="16.918768161011084">
+  <name>Lastovo - Lastovo_8</name>
+</wpt>
+<wpt lat="42.749989297693446" lon="16.917125470315252">
+  <name>Lastovo - Lastovo_9</name>
+</wpt>
+</gpx>

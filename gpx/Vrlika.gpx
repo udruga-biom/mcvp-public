@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="43.922838726820110" minlon="16.407357033134947" maxlat="43.966103568808165" maxlon="16.432696893312031"/></metadata>                  
+<wpt lat="43.953824564819996" lon="16.40777512951901">
+  <name>Vrlika - Civljane_1</name>
+</wpt>
+<wpt lat="43.955303227481622" lon="16.410950081863749">
+  <name>Vrlika - Civljane_2</name>
+</wpt>
+<wpt lat="43.956251002838094" lon="16.414462375080419">
+  <name>Vrlika - Civljane_3</name>
+</wpt>
+<wpt lat="43.95870039367577" lon="16.416016420186018">
+  <name>Vrlika - Civljane_4</name>
+</wpt>
+<wpt lat="43.959198118746762" lon="16.419741431180949">
+  <name>Vrlika - Civljane_5</name>
+</wpt>
+<wpt lat="43.959479693297382" lon="16.423454321196619">
+  <name>Vrlika - Civljane_6</name>
+</wpt>
+<wpt lat="43.961695329360943" lon="16.425607246401157">
+  <name>Vrlika - Civljane_7</name>
+</wpt>
+<wpt lat="43.964133653966961" lon="16.425040689752723">
+  <name>Vrlika - Civljane_8</name>
+</wpt>
+<wpt lat="43.966103568808165" lon="16.422324234114239">
+  <name>Vrlika - Civljane_9</name>
+</wpt>
+<wpt lat="43.926200455635424" lon="16.407357033134947">
+  <name>Vrlika - Kosore_1</name>
+</wpt>
+<wpt lat="43.92462771856718" lon="16.410398093045039">
+  <name>Vrlika - Kosore_2</name>
+</wpt>
+<wpt lat="43.92283872682011" lon="16.413240058477488">
+  <name>Vrlika - Kosore_3</name>
+</wpt>
+<wpt lat="43.924191313555355" lon="16.416525754974398">
+  <name>Vrlika - Kosore_4</name>
+</wpt>
+<wpt lat="43.925975498976165" lon="16.419312875012814">
+  <name>Vrlika - Kosore_5</name>
+</wpt>
+<wpt lat="43.925816143207854" lon="16.423173708003564">
+  <name>Vrlika - Kosore_6</name>
+</wpt>
+<wpt lat="43.925773613223882" lon="16.426947202419463">
+  <name>Vrlika - Kosore_7</name>
+</wpt>
+<wpt lat="43.927467542720386" lon="16.429747267993669">
+  <name>Vrlika - Kosore_8</name>
+</wpt>
+<wpt lat="43.929206495895045" lon="16.432696893312031">
+  <name>Vrlika - Kosore_9</name>
+</wpt>
+</gpx>

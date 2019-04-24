@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.543669424143722" minlon="15.785743312865415" maxlat="45.566058811783726" maxlon="15.874489251118389"/></metadata>                  
+<wpt lat="45.546515087610885" lon="15.800398111594477">
+  <name>Pisarovina - Donja Kupčina_1</name>
+</wpt>
+<wpt lat="45.548515011818232" lon="15.797837537701527">
+  <name>Pisarovina - Donja Kupčina_2</name>
+</wpt>
+<wpt lat="45.550615115187078" lon="15.795480447056153">
+  <name>Pisarovina - Donja Kupčina_3</name>
+</wpt>
+<wpt lat="45.552551149099962" lon="15.792792233899403">
+  <name>Pisarovina - Donja Kupčina_4</name>
+</wpt>
+<wpt lat="45.555150874635721" lon="15.78976246021729">
+  <name>Pisarovina - Donja Kupčina_5</name>
+</wpt>
+<wpt lat="45.557739090458774" lon="15.790677717321355">
+  <name>Pisarovina - Donja Kupčina_6</name>
+</wpt>
+<wpt lat="45.56046601670424" lon="15.789298395288402">
+  <name>Pisarovina - Donja Kupčina_7</name>
+</wpt>
+<wpt lat="45.563096075489931" lon="15.786818484888755">
+  <name>Pisarovina - Donja Kupčina_8</name>
+</wpt>
+<wpt lat="45.566058811783726" lon="15.785743312865415">
+  <name>Pisarovina - Donja Kupčina_9</name>
+</wpt>
+<wpt lat="45.543669424143722" lon="15.874489251118389">
+  <name>Pisarovina - Pokupski Gradec_1</name>
+</wpt>
+<wpt lat="45.545253884797106" lon="15.871346980052495">
+  <name>Pisarovina - Pokupski Gradec_2</name>
+</wpt>
+<wpt lat="45.549951004191442" lon="15.868080007901943">
+  <name>Pisarovina - Pokupski Gradec_3</name>
+</wpt>
+<wpt lat="45.552585731322552" lon="15.867755900792147">
+  <name>Pisarovina - Pokupski Gradec_4</name>
+</wpt>
+<wpt lat="45.555087918106871" lon="15.864628215017509">
+  <name>Pisarovina - Pokupski Gradec_5</name>
+</wpt>
+<wpt lat="45.557787825492419" lon="15.864700258059573">
+  <name>Pisarovina - Pokupski Gradec_6</name>
+</wpt>
+<wpt lat="45.560147130829662" lon="15.866633525884939">
+  <name>Pisarovina - Pokupski Gradec_7</name>
+</wpt>
+<wpt lat="45.562841776118653" lon="15.865757777784436">
+  <name>Pisarovina - Pokupski Gradec_8</name>
+</wpt>
+<wpt lat="45.565464145854854" lon="15.864831516073798">
+  <name>Pisarovina - Pokupski Gradec_9</name>
+</wpt>
+</gpx>

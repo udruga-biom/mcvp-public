@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.179355956908374" minlon="13.957230796576733" maxlat="45.201778258024305" maxlon="13.978874577722369"/></metadata>                  
+<wpt lat="45.191471373796382" lon="13.978874577722369">
+  <name>Pazin - Čubanići_1</name>
+</wpt>
+<wpt lat="45.188147548525009" lon="13.976966176544252">
+  <name>Pazin - Čubanići_2</name>
+</wpt>
+<wpt lat="45.18621684660696" lon="13.971952946911959">
+  <name>Pazin - Čubanići_3</name>
+</wpt>
+<wpt lat="45.186710336295064" lon="13.968168526199614">
+  <name>Pazin - Čubanići_4</name>
+</wpt>
+<wpt lat="45.187643859839618" lon="13.964579428807298">
+  <name>Pazin - Čubanići_5</name>
+</wpt>
+<wpt lat="45.185044525439956" lon="13.963539444396746">
+  <name>Pazin - Čubanići_6</name>
+</wpt>
+<wpt lat="45.182160485081589" lon="13.961655080362025">
+  <name>Pazin - Čubanići_7</name>
+</wpt>
+<wpt lat="45.179355956908374" lon="13.961453026038633">
+  <name>Pazin - Čubanići_8</name>
+</wpt>
+<wpt lat="45.179437180800697" lon="13.957230796576733">
+  <name>Pazin - Čubanići_9</name>
+</wpt>
+<wpt lat="45.197293363721876" lon="13.977714544266297">
+  <name>Pazin  - Mandalenčići_1</name>
+</wpt>
+<wpt lat="45.194631522472875" lon="13.977289388660916">
+  <name>Pazin  - Mandalenčići_2</name>
+</wpt>
+<wpt lat="45.193770565007604" lon="13.973545204097524">
+  <name>Pazin  - Mandalenčići_3</name>
+</wpt>
+<wpt lat="45.194738803897238" lon="13.968628525914333">
+  <name>Pazin  - Mandalenčići_4</name>
+</wpt>
+<wpt lat="45.197427591644512" lon="13.968250603661483">
+  <name>Pazin  - Mandalenčići_5</name>
+</wpt>
+<wpt lat="45.201205793471338" lon="13.968801856605687">
+  <name>Pazin  - Mandalenčići_6</name>
+</wpt>
+<wpt lat="45.201499775210237" lon="13.965054549149464">
+  <name>Pazin  - Mandalenčići_7</name>
+</wpt>
+<wpt lat="45.201778258024305" lon="13.961388721231557">
+  <name>Pazin  - Mandalenčići_8</name>
+</wpt>
+<wpt lat="45.200126646608545" lon="13.958378852996919">
+  <name>Pazin  - Mandalenčići_9</name>
+</wpt>
+</gpx>
